@@ -34,7 +34,7 @@ jobs:
           python scripts/daily_news.py
         # 目的：執行你剛剛寫的程式，印出前 10 則新聞
         
-           - name: Commit brief
+      - name: Commit brief
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"

@@ -110,14 +110,14 @@ def build_candidates(feeds, rules):
             scored = score_item(title, summary, rules)
             tags = detect_business_tags(title, summary, rules)
 
-                candidates.append({
-                    "title": title.strip(),
-                    "link": real_link,
-                    "source_group": feed["name"],
-                    "category": feed["category"],
-                    "score": scored["score"],
-                    "hits": scored["hits"],
-                    "tags": tags,
+            candidates.append({
+                "title": title.strip(),
+                "link": real_link,
+                "source_group": feed["name"],
+                "category": feed["category"],
+                "score": scored["score"],
+                "hits": scored["hits"],
+                "tags": tags,
 })
 
     return candidates

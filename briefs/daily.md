@@ -34,7 +34,7 @@
   _A_global_market | A - Industrial Inspection / Remote Inspection (Google News)_
 - **(15)** [Softwear Automation Secures $20 Million in Series B1 Funding Round Led by Strategic Partnership with BESTSELLER - PR Newswire](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQXZJUUFZaTg4dkdwVUpuOEF6OXBELWtFWlRsemdhc0NxYlNnc3EyeUdRVVlRMmhuM1cwVV9qa3kyQ2xZaXVmejNPa0g0cVFLcVM4dXlkdE43Nnc0ZFcySXR5c0dqY0dNNEcxZ1I3NEJKYm1EZ0tKSDZwMVloN0pjRWxzbjF1VE1aNFp0VzctNk5aN2gwaVlYeG9jam1zUWhsU28ySmhnZDQwUzRWRi1VSUtLWHp4ajhvQTZOWFRpc3p4Ym5mWVpGekhMSGplNjU5UEJyMk5jbWZQelVnaVp3a3B1ejdaT3gxcGotNDlqQUVXOWVERlJNTEhn?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News)_
-- **(14)** [Edge AI Firm Ultralytics Closes $30M Funding Round | Business | Sep 2025 - Photonics Spectra](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjZJZ2JQVkxEOVJ5ejZKUW5nNU5vLUlUVUlGaVNoOHJWbWpxc2N4RWVFWUtoUk9fUHIzOEppNHVsUkxsVW83ekVTRnhBZDZ0R2pqdzQxdDgtUDlsT1FrdFJkVW1OdjNYV3ViYkh3OHpBZkx1WTdMQWJXLTRIZVljb1VCd3BJcEprMjcxQlZTd1FGazBMTmc?oc=5)  
+- **(14)** [Edge AI Firm Ultralytics Closes $30M Funding Round | Business | Sep 2025 - Photonics.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjZJZ2JQVkxEOVJ5ejZKUW5nNU5vLUlUVUlGaVNoOHJWbWpxc2N4RWVFWUtoUk9fUHIzOEppNHVsUkxsVW83ekVTRnhBZDZ0R2pqdzQxdDgtUDlsT1FrdFJkVW1OdjNYV3ViYkh3OHpBZkx1WTdMQWJXLTRIZVljb1VCd3BJcEprMjcxQlZTd1FGazBMTmc?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News)_
 
 ## 🟡 Worth Monitoring

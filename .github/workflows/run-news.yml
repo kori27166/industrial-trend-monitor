@@ -1,7 +1,9 @@
 name: Run News Fetch (Manual)
 
 on:
-  workflow_dispatch:  # 目的：允許你在網頁上手動按按鈕執行
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write

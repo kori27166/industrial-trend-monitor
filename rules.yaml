@@ -68,16 +68,91 @@ thresholds:
 
 business_tags:
   enterprise_deployment:
-    keywords: ["deploys", "rollout", "adopts", "enterprise", "contract"]
+    keywords:
+      - deploy
+      - deployed
+      - deployment
+      - rollout
+      - roll-out
+      - adopts
+      - adoption
+      - implementation
+      - implemented
+      - "go-live"
+      - "go live"
+      - contract
+      - contract award
+      - awarded
+      - order
+      - purchase order
+      - pilot
+      - "proof of concept"
+      - poc
+      - "site-wide"
+      - enterprise
 
   system_integrator:
-    keywords: ["system integrator", "integrator", "integration partner"]
+    keywords:
+      - "system integrator"
+      - "systems integrator"
+      - integrator
+      - "integration partner"
+      - "solution partner"
+      - "channel partner"
+      - reseller
+      - distributor
+      - "value-added reseller"
+      - var
+      - "managed service"
 
   funding:
-    keywords: ["raises", "funding", "series", "investment"]
+    keywords:
+      - raises
+      - funding
+      - fundraise
+      - "seed round"
+      - "series a"
+      - "series b"
+      - "series c"
+      - "strategic investment"
+      - investment
+      - investor
+
+  acquisition:
+    keywords:
+      - acquires
+      - acquired
+      - acquisition
+      - merger
+      - merges
+      - "m&a"
+
+  tender_project:
+    keywords:
+      - tender
+      - bid
+      - rfp
+      - rfq
+      - procurement
+      - contract notice
 
   construction_project:
-    keywords: ["construction project", "infrastructure", "site monitoring"]
+    keywords:
+      - "smart construction"
+      - "construction site"
+      - "jobsite"
+      - "site monitoring"
+      - "site surveillance"
+      - "site safety"
+      - "construction project"
+      - infrastructure
 
   factory_expansion:
-    keywords: ["new factory", "plant expansion", "manufacturing facility"]
+    keywords:
+      - "new factory"
+      - "new plant"
+      - "plant expansion"
+      - expansion
+      - "manufacturing facility"
+      - "production line"
+      - "capacity expansion"

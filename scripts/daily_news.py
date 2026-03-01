@@ -148,9 +148,15 @@ def generate_markdown(items, rules):
 
     return "\n".join(lines)
 
-def save_brief(content):
+def save_brief(content, date_str):
     Path("briefs").mkdir(parents=True, exist_ok=True)
-    with open(OUTFILE, "w", encoding="utf-8") as f:
+
+    # 最新版（覆蓋）
+    with open("briefs/daily.md", "w", encoding="utf-8") as f:
+        f.write(content)
+
+    # 歷史版（每天一份）
+    with open(f"briefs/{date_str}.md", "w", encoding="utf-8") as f:
         f.write(content)
 
 if __name__ == "__main__":
@@ -159,5 +165,8 @@ if __name__ == "__main__":
 
     items = build_candidates(feeds, rules)
     md = generate_markdown(items, rules)
-    save_brief(md)
-    print("Brief generated:", OUTFILE)
+
+    date_str = datetime.utcnow().strftime("%Y-%m-%d")
+    save_brief(md, date_str)
+
+    print("Brief generated: briefs/daily.md and briefs/{date_str}.md")

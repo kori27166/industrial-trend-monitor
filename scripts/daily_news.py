@@ -71,6 +71,19 @@ def score_item(title: str, summary: str, rules: dict) -> dict:
 
     return {"score": score, "hits": hits}
 
+def detect_business_tags(title: str, summary: str, rules: dict):
+    t = normalize_text(title)
+    s = normalize_text(summary)
+    tags = []
+
+    for tag, config in rules.get("business_tags", {}).items():
+        for kw in config.get("keywords", []):
+            if normalize_text(kw) in t or normalize_text(kw) in s:
+                tags.append(tag)
+                break
+
+    return tags
+    
 def fetch_feed(url, limit=20):
     feed = feedparser.parse(url)
     return feed.entries[:limit]
@@ -95,15 +108,17 @@ def build_candidates(feeds, rules):
             seen.add(key)
 
             scored = score_item(title, summary, rules)
+            tags = detect_business_tags(title, summary, rules)
 
-            candidates.append({
-                "title": title.strip(),
-                "link": real_link,
-                "source_group": feed["name"],
-                "category": feed["category"],
-                "score": scored["score"],
-                "hits": scored["hits"],
-            })
+                candidates.append({
+                    "title": title.strip(),
+                    "link": real_link,
+                    "source_group": feed["name"],
+                    "category": feed["category"],
+                    "score": scored["score"],
+                    "hits": scored["hits"],
+                    "tags": tags,
+})
 
     return candidates
 
@@ -133,7 +148,10 @@ def generate_markdown(items, rules):
             lines.append("")
             return
         for x in arr[:topn]:
-            lines.append(f"- **({x['score']})** [{x['title']}]({x['link']})  \n  _{x['category']} | {x['source_group']}_")
+            tag_str = f" | Tags: {', '.join(x['tags'])}" if x.get("tags") else ""
+lines.append(
+    f"- **({x['score']})** [{x['title']}]({x['link']})  \n  _{x['category']} | {x['source_group']}{tag_str}"
+)
             # 想更透明就打開下一行（會變長）
             # lines.append(f"  - hits: {', '.join(x['hits'][:6])}")
         lines.append("")

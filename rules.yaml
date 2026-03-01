@@ -63,8 +63,8 @@ scoring:
     "toy": 6
 
 thresholds:
-  high_signal: 12
-  monitor: 8
+  high_signal: 18
+  monitor: 10
 
 business_tags:
   enterprise_deployment:

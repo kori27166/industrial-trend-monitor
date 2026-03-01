@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser
+          pip install feedparser pyyaml
         # 目的：安裝 RSS 解析套件 feedparser
 
       - name: Run script

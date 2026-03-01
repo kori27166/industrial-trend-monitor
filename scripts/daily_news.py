@@ -147,22 +147,15 @@ def generate_markdown(items, rules):
             lines.append("_No items._")
             lines.append("")
             return
+
         for x in arr[:topn]:
             tag_str = f" | Tags: {', '.join(x['tags'])}" if x.get("tags") else ""
-lines.append(
-    f"- **({x['score']})** [{x['title']}]({x['link']})  \n  _{x['category']} | {x['source_group']}{tag_str}"
-)
-            # 想更透明就打開下一行（會變長）
-            # lines.append(f"  - hits: {', '.join(x['hits'][:6])}")
+            lines.append(
+                f"- **({x['score']})** [{x['title']}]({x['link']})  \n"
+                f"  _{x['category']} | {x['source_group']}{tag_str}_"
+            )
+
         lines.append("")
-
-    render_section("🔥 High Signal", high, topn=15)
-    render_section("🟡 Worth Monitoring", monitor, topn=20)
-
-    lines.append("## Notes")
-    lines.append("")
-    lines.append("- Scoring is rule-based (no AI). Adjust weights in `rules.yaml`.")
-    lines.append("")
 
     return "\n".join(lines)
 

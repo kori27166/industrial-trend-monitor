@@ -65,3 +65,19 @@ scoring:
 thresholds:
   high_signal: 12
   monitor: 8
+
+business_tags:
+  enterprise_deployment:
+    keywords: ["deploys", "rollout", "adopts", "enterprise", "contract"]
+
+  system_integrator:
+    keywords: ["system integrator", "integrator", "integration partner"]
+
+  funding:
+    keywords: ["raises", "funding", "series", "investment"]
+
+  construction_project:
+    keywords: ["construction project", "infrastructure", "site monitoring"]
+
+  factory_expansion:
+    keywords: ["new factory", "plant expansion", "manufacturing facility"]

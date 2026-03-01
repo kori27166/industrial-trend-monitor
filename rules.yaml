@@ -156,3 +156,12 @@ business_tags:
       - "manufacturing facility"
       - "production line"
       - "capacity expansion"
+
+tag_bonus:
+  enterprise_deployment: 6
+  system_integrator: 6
+  tender_project: 5
+  funding: 4
+  acquisition: 5
+  factory_expansion: 4
+  construction_project: 3

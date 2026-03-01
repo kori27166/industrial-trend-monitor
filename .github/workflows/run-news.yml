@@ -1,0 +1,28 @@
+name: Run News Fetch (Manual)
+
+on:
+  workflow_dispatch:  # 目的：允許你在網頁上手動按按鈕執行
+
+jobs:
+  run:
+    runs-on: ubuntu-latest  # 目的：用 GitHub 的 Linux 機器來跑
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        # 目的：把你的 repo 檔案下載到這台機器上
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+        # 目的：安裝 Python，才能跑你的 .py
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser
+        # 目的：安裝 RSS 解析套件 feedparser
+
+      - name: Run script
+        run: |
+          python scripts/daily_news.py
+        # 目的：執行你剛剛寫的程式，印出前 10 則新聞

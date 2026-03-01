@@ -116,6 +116,9 @@ def build_candidates(feeds, rules):
 
             scored["score"] += bonus
 
+            if not tags:
+                scored["score"] -= 3
+    
             candidates.append({
                 "title": title.strip(),
                 "link": real_link,

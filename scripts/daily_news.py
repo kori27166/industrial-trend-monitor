@@ -125,10 +125,10 @@ def build_candidates(feeds, rules):
 def generate_markdown(items, rules):
     today = datetime.utcnow().strftime("%Y-%m-%d")
     th = rules["thresholds"]
+
     high = [x for x in items if x["score"] >= th["high_signal"]]
     monitor = [x for x in items if th["monitor"] <= x["score"] < th["high_signal"]]
 
-    # 依分數排序
     high.sort(key=lambda x: x["score"], reverse=True)
     monitor.sort(key=lambda x: x["score"], reverse=True)
 
@@ -156,6 +156,14 @@ def generate_markdown(items, rules):
             )
 
         lines.append("")
+
+    render_section("🔥 High Signal", high, topn=15)
+    render_section("🟡 Worth Monitoring", monitor, topn=20)
+
+    lines.append("## Notes")
+    lines.append("")
+    lines.append("- Scoring is rule-based (no AI). Adjust weights in `rules.yaml`.")
+    lines.append("")
 
     return "\n".join(lines)
 

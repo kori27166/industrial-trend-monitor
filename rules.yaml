@@ -1,0 +1,67 @@
+scoring:
+  # 標題命中加權（title 比 summary 更可靠）
+  title_multiplier: 2
+
+  # 主題關鍵字（D 技術趨勢 + 你產業核心）
+  keywords:
+    digital twin: 6
+    reality capture: 5
+    3d reconstruction: 5
+    photogrammetry: 4
+    machine vision: 5
+    computer vision: 4
+    edge ai: 4
+    industrial inspection: 6
+    remote inspection: 5
+    condition monitoring: 4
+    smart factory: 5
+    factory automation: 5
+    industrial automation: 5
+    smart construction: 5
+    site monitoring: 4
+    panoramic: 4
+    360 camera: 6
+    vms: 3
+    onvif: 3
+    rtsp: 3
+    slam: 4
+    lidar: 3
+
+  # C 資金/併購訊號（出現就加分）
+  capital_triggers:
+    raises: 6
+    funding: 6
+    seed: 4
+    "series a": 6
+    "series b": 6
+    investment: 5
+    acquires: 7
+    acquisition: 7
+    merger: 7
+    "m&a": 7
+    "strategic investment": 6
+
+  # 市場落地訊號（A 全球市場）
+  market_triggers:
+    deploys: 4
+    rollout: 4
+    adopts: 4
+    contract: 4
+    partnership: 3
+    "system integrator": 4
+    integrator: 3
+    enterprise: 3
+
+  # 雜訊扣分（避免被泛 AI 新聞或消費產品洗版）
+  noise_penalties:
+    smartphone: 6
+    gaming: 6
+    influencer: 6
+    rumor: 5
+    "price leak": 6
+    "consumer": 4
+    "toy": 6
+
+thresholds:
+  high_signal: 12
+  monitor: 8

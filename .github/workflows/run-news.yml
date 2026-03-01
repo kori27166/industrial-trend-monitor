@@ -3,12 +3,17 @@ name: Run News Fetch (Manual)
 on:
   workflow_dispatch:  # 目的：允許你在網頁上手動按按鈕執行
 
+permissions:
+  contents: write
+  
 jobs:
   run:
     runs-on: ubuntu-latest  # 目的：用 GitHub 的 Linux 機器來跑
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
         # 目的：把你的 repo 檔案下載到這台機器上
 
       - name: Setup Python

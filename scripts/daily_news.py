@@ -110,6 +110,12 @@ def build_candidates(feeds, rules):
             scored = score_item(title, summary, rules)
             tags = detect_business_tags(title, summary, rules)
 
+            bonus = 0
+            for t in tags:
+                bonus += rules.get("tag_bonus", {}).get(t, 0)
+
+            scored["score"] += bonus
+
             candidates.append({
                 "title": title.strip(),
                 "link": real_link,

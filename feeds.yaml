@@ -1,0 +1,24 @@
+feeds:
+  - name: "A - Smart Factory / Industrial Automation (Google News)"
+    category: "A_global_market"
+    url: "https://news.google.com/rss/search?q=smart+factory+industrial+automation&hl=en&gl=US&ceid=US:en"
+
+  - name: "A - Industrial Inspection / Remote Inspection (Google News)"
+    category: "A_global_market"
+    url: "https://news.google.com/rss/search?q=industrial+inspection+remote+inspection&hl=en&gl=US&ceid=US:en"
+
+  - name: "A - Smart Construction / Site Monitoring (Google News)"
+    category: "A_global_market"
+    url: "https://news.google.com/rss/search?q=smart+construction+site+monitoring&hl=en&gl=US&ceid=US:en"
+
+  - name: "D - Digital Twin / Reality Capture (Google News)"
+    category: "D_tech_trends"
+    url: "https://news.google.com/rss/search?q=digital+twin+reality+capture+3D+reconstruction&hl=en&gl=US&ceid=US:en"
+
+  - name: "D - Machine Vision / Edge AI (Google News)"
+    category: "D_tech_trends"
+    url: "https://news.google.com/rss/search?q=machine+vision+edge+AI+manufacturing&hl=en&gl=US&ceid=US:en"
+
+  - name: "C - Funding / Acquisition (Google News)"
+    category: "C_capital"
+    url: "https://news.google.com/rss/search?q=industrial+automation+funding+OR+acquisition+OR+merger&hl=en&gl=US&ceid=US:en"

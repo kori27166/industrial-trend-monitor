@@ -1,8 +1,8 @@
 # Industrial Trend Brief - 2026-03-02
 
 - Total unique items scanned: **119**
-- High signal (>= 18): **12**
-- Monitor (10–17): **28**
+- High signal (>= 18): **13**
+- Monitor (10–17): **25**
 
 ## 🔥 High Signal
 
@@ -12,14 +12,14 @@
   _C_capital | C - Funding / Acquisition (Google News) | Tags: funding, tender_project_
 - **(26)** [RobCo raises Series C funding to scale industrial automation - The Robot Report](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0tOVGkxSjNBSUs0NlFlWFY4WnVCLWV6cFBvVFhFbFNYTzQ2WUViYW4xbXNyYmVFaGZ1dURmQnRlZldQQ3VTRE5xRmRNMC1jU3VJVlFLTlNjRkwwN2ZDTVY0MFVpQWJzanRtdVB1RlBHLWU5VVZkMXRURXViemdXZHJiTQ?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
-- **(26)** [Procense Raises $1.5M in Seed Funding to Accelerate AI-Powered Manufacturing - I-Connect007](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDQyVlU2dkR5T0Rha2ZZb1VaREJvMC1uTExyVjlfY3AzVGE5d0NjQllMTHJMTHJ5bXhpLUNFM25QempKVV9TOVVwOE9FSjVxbkpWZDZ0LUd3aGdLQWZFSDB5emJGODNZTlpYSEhHUzN4Q1AwMk5XRUVpNXhiNGVGeDJrQl9XLVBpNmVBZUdnUzdGRkhQUGtUSnBnN2trbF92Mk1sR2pvLUl2UW80YVA1Mkk0Z2lzUnlSODhfSzdZdy0?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: system_integrator, funding_
 - **(22)** [OnLogic and viso.ai Partner to Accelerate Scalable Deployment of Edge AI Computer Vision - rAVe [PUBS]](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGpPd0NqYU1LVE5rUmtla1N5Q3VxUDRRakg4SXM2OVRrRHVpbWRwckE3ZkFPdUFXcTUyS0ZiTXVPbnl3dzZEQ3B0QzVEX2xnNWEybW01QnJ4ek8wOXAzb0NVM25lV2liNXk5blpCSUJpbnRTME1CSjltV1hXTU1Pb0tzRm5MbnJyVFRFc2VJemYwVDJYX0EwNm92ekh4ZGZZNC1ZSk5NTEl1WEkwUHNJ0gG0AUFVX3lxTE9VVTA3Q0FsRWVDYzlBbjlCczdWZm95LUdMelNXNk1OaTFmbEVEVkRIejVrUTJLckZIV2hJYU1leGxjQ1RMRTFvLU9ldV9JeWlUZDFqUHJuY01VdE0tM2Z3c0FDUlpUVUpfTXllVE5VN0ZnV3dxQm9QXzZHR3l1N3d3aDhKTkdsWTA4U3R6UlJ4aWZfd2xKZ29rN083dWNFWHZmbDJwSXlUQ3lfN09mZy1VYk5wQQ?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News) | Tags: enterprise_deployment_
 - **(22)** [Following a strategic merger in 2025, Righi is expanding globally with pioneering industrial automation solutions - Manufacturing Today](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ2RHLXlKRkFnUm1yTFRLSWVSczBjaXVNSDZzd2JvdmFycm1OVFVQNTUtWk16OV81WDZhdmxaZVp5TUE1UU9oNmtvRXpZalZUc0xDV1R3MVl6RGFMZ054b1BWYS16WDZZaUdyOFo4WHlYU0NjcWNDeEZmNHl6ZlFpZnk4ZmVtUUcyaVA4QXdFdk9tUFhOTEFZSFI0dnpjVkFwdzlKVnJFQkZwZzdiVDVTR2tZSkRvWHFkeU5QdXZLbHdBR1F1MFZzZmhLWW5rRFF3ZkJNV2JlZzZ0c0c1Sy1TMkFId1Y?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(20)** [Canada’s Mecademic Raises $15.3M USD in Funding for Industrial Robotics Expansion - AI Insider](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUnBROEw2WkRzU3k5ZVZpaFA4cEw2MjBoQ0NucjctbV9yVHhxS240WXgwdElLNndFYkN3VG91V042T3NBd0VKXzZlTG1aRGpST0NPWDJvcGFWY2pJWlZhQUhGTDQ2NXI5RlNsMGtRR2JRSzdIT3NfVWRUVnFIVGJVSVdXTFhfamwzamh6N2NhNzBucUEzZTlBMWR1WDk3bC1WZTgxT3JVZkNMOWE3cUVKY2FnQUpNLUpa?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: funding, factory_expansion_
+- **(20)** [Cerrion raises $18M to support industrial automation with intelligent vision agents - SiliconANGLE](https://news.google.com/rss/articles/CBMisAFBVV95cUxORmJWTG1WbFRmcUNNMC1ualBKZEJCWk8wUHU3T1VyYWxYTnZRbEluQnkxZ01VMFdmODU4NTllTFlxQXc5bGhHZUNUVTNETzdCQTduakcxeUh1NUU1Si1FU1U5c3pnc1h1YVBMdDIzV05LOWVuY0MtSkpWLW5QODFDSFJ5SU5fQlA1VUZlaGtDNUNUYjJiRTJ4ck5acXdLWXloWklITzMzNHRoeG9OQWxjZQ?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
 - **(19)** [How Rajat Khare Is Reshaping Deep-Tech Investments After the Cynapse Exit - and the Rise of AI Video Remote Inspections - vocal.media](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM0NzeGdqUkFKQ0ljNzhaUHpBMGVTWHFmWDI5SHA3cFdQQklFOTZ1S3AxMnVOTk4xT3g0aElYb0JpVzVtRW1aajc5cWx1OXJLS2JXZW1FSThHSzdLVDZGRExoTVdpQkNnU1MzeUJWOTB6WktKaGxadFVDWkNFYlh3Sm9CZzNNcEFCa3VjR2gzbHlORGFWUmx0ak1RR3VGYTJwa1oyUHA4ajlYZEJuQ2xXT0ZOOE5hWFhjeVkxd1BEbnVjejQtQWRkc05JTDhLYVBJdWd0VDVib0Ffc1FwVDgw?oc=5)  
   _A_global_market | A - Industrial Inspection / Remote Inspection (Google News) | Tags: funding_
 - **(19)** [GeoAI, Reality Capture, and the Future of Digital Twins - Esri](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkJxcUF1M0MtMkcwT3hzbldGRGNsTm1NTjNNVHNDdVBwS3BpRXhnVERMNGFBTzNTamhSN004VktOUk5ZbTFsemR1V25xQ19SNEFHaFAtMXliY3Fza2NrTmRIWFRwb3dOeXd2d2ZFMkt6TWZTSzFVbDcwYzRFY2RkUHd5X3JscldPd2lLUll6cHhoLWkxUE02YWZxOTA2RUhXTDFIY28wY1A?oc=5)  
@@ -28,7 +28,9 @@
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
 - **(19)** [Softwear Automation Secures $20 Million in Series B1 Funding Round Led by Strategic Partnership with BESTSELLER - PR Newswire](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQXZJUUFZaTg4dkdwVUpuOEF6OXBELWtFWlRsemdhc0NxYlNnc3EyeUdRVVlRMmhuM1cwVV9qa3kyQ2xZaXVmejNPa0g0cVFLcVM4dXlkdE43Nnc0ZFcySXR5c0dqY0dNNEcxZ1I3NEJKYm1EZ0tKSDZwMVloN0pjRWxzbjF1VE1aNFp0VzctNk5aN2gwaVlYeG9jam1zUWhsU28ySmhnZDQwUzRWRi1VSUtLWHp4ajhvQTZOWFRpc3p4Ym5mWVpGekhMSGplNjU5UEJyMk5jbWZQelVnaVp3a3B1ejdaT3gxcGotNDlqQUVXOWVERlJNTEhn?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
-- **(18)** [Edge AI Firm Ultralytics Closes $30M Funding Round | Business | Sep 2025 - Photonics.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjZJZ2JQVkxEOVJ5ejZKUW5nNU5vLUlUVUlGaVNoOHJWbWpxc2N4RWVFWUtoUk9fUHIzOEppNHVsUkxsVW83ekVTRnhBZDZ0R2pqdzQxdDgtUDlsT1FrdFJkVW1OdjNYV3ViYkh3OHpBZkx1WTdMQWJXLTRIZVljb1VCd3BJcEprMjcxQlZTd1FGazBMTmc?oc=5)  
+- **(19)** [Ex-OpenAI Researcher’s Startup Targets Up to $1 Billion in Funding to Develop a New Type of AI - The Information](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOG5JUzBDNmtYUVVMS09MU3ZiMHZ6ZV9RZndwd1FNMks1MlRqNkpOcDN6SkpoQ1g5RHp4Q3NzeVNFZ05FaXlJTjJNZ2tLdEtZTkFEWjFqY1lxNmxCYU40d3ZnQ1owTTA0ZDhma1hQeTJENWotYm83OFp1QUZsdVVScnZQQjNnaUVfbnJ4cXlpZS1DYnZkc3U0ZGJYR0NZNjhaeEd6Z3VRNm1lMGdUamladGNsd0pWZw?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: enterprise_deployment, funding_
+- **(18)** [Edge AI Firm Ultralytics Closes $30M Funding Round | Business | Sep 2025 - Photonics Spectra](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjZJZ2JQVkxEOVJ5ejZKUW5nNU5vLUlUVUlGaVNoOHJWbWpxc2N4RWVFWUtoUk9fUHIzOEppNHVsUkxsVW83ekVTRnhBZDZ0R2pqdzQxdDgtUDlsT1FrdFJkVW1OdjNYV3ViYkh3OHpBZkx1WTdMQWJXLTRIZVljb1VCd3BJcEprMjcxQlZTd1FGazBMTmc?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News) | Tags: funding_
 
 ## 🟡 Worth Monitoring
@@ -43,8 +45,8 @@
   _A_global_market | A - Smart Factory / Industrial Automation (Google News)_
 - **(15)** [IBASE MAF801 Edge AI Platform Is Designed for Industrial Automation Applications - Embedded Computing Design](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWkd1c3pCWFhvZ0pCdVhNYjlsbHl5djhKX1NQU2J1UlVoMnBVYmZ5ZkxyY3UySUhfeFpsMjBEcTdTeXUwTFhsRDJTYjR1ZlB6aXRCYi1Wd29KdU9HX0kwTHJ1TE9UQThTTzhOZFA2Ul91dlROUmVoUXFibU9PamdIeURUNHlveks1UmFEcjU2dGhRSUsxRWFRV3M4UkNrWWtoM3cxNjJxVjBQZ29XR0UtazhpeFEzR2Fick04ZDc5SjBpeDNNVHRGWlViYkFPSFllOVZiUjJvNA?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News)_
-- **(15)** [Bedrock Robotics Emerges from Stealth with $80M in Funding for Autonomous Construction Technology - Robotics Tomorrow](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWW5nTkxYaWd0VW91MlFRTGtweDBKMl9EemNjaE11LUNyR0N0TGVfX05FOHdFOHlZWGJicUtsS2VacmNZdUFnRE5MY3NUZGlmQXFwMERCRE1KMGNsX3Jaa2QtZzFsZnZJTXRTaG5RNDJneGZZdE1fT1JieUxubHNqMWk1Q1hJVFV1LVI3QTJyRll4UlpGSEhaSzlNYlc4a1ltRGstTWpQaEQwVHdKOVFvcUt0QWZXam8tSUtYcng2SlVrdnNnTVB4ZVh0YWtjTFVUNG5iMkd5blYyTkdzZGFHNC1fZms?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: funding, acquisition_
+- **(15)** [Robotics funding trends: Ten recent investments shaping the automation market - Robotics & Automation News](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbVM3aG1uWGVEN092NHdUdDI1b0ZXMVk5X2g2WVMxWmpKZ1Y4Zldyb2s0dy1IYUNoLWFRY2NwanRFZjdhM0dyTmpNWS04N0xFOVJWY0ZCb1FHZUlMUE5nek55aV9BYjd3dmpGYlJBX0JTdU92b1NWMDEyYXU4Q0dzWTM0NWxvZ296N0hFcFBaczNleE82YzJ6U05CczdWLThiMi1sN1BobmMzdkVGeWRGWWVkNm1wcnp5LUVyRTBqQU9xaVRISUlnMVQtb0s?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
 - **(14)** [Investor Advocacy Group Criticizes FINRA’s Remote Inspections - The Daily Upside](https://news.google.com/rss/articles/CBMitAFBVV95cUxOb01HNjlrdk0xcXRvWThYQXI4S240RTcwUW1fUW0tUlV3U2Y1d0dGOHZ4ODQ4aDQ2M0gwLXMtVnh3Wl85ckVzZ1Zyd0RGOGNUckVvWjhRT0EwS2dVRnhBeUlIbjdfR0NTTVZJYlgzZTkwUWxhTFFhZWxOaEtIelhIMmpEeE8xU0thTFRJQnFLWEpGZmF0LUxxMTdyc2hWdEtRU3ctOGpIWk1NVHptM3FmYzNldk8?oc=5)  
   _A_global_market | A - Industrial Inspection / Remote Inspection (Google News) | Tags: funding_
 - **(14)** [Classical Computing vs. Machine Learning and Edge AI Techniques in Various Application Domains - Semiconductor Engineering](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUF3cWwxWVZqalN5SDJvVloyZXY0aFA4OXJwN1RFRTMyRFhPeWZ5ejk2bUVnZFJva0ZYNnBoelk3QVc0TVRrT2dXdVlhMUQ1NXRPbHprdk1CQk04bWlEc202TXJqeEpWZ3lkbEgxVWJPUVFNaUltRUVBV0Y5TG5TMXdXNlFQejNPUHJHSjZiQ0NKUkN4dFVxZEtpS3QxOUFCejVaaG5qNi1YVUdoZ28wRloyTGFiUmhjVTc5MFR1Zw?oc=5)  
@@ -59,20 +61,20 @@
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
 - **(13)** [Building superstructures in 11 days: inside the new world of smart construction - Innovators Magazine](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUklETjVIcXNRTGViVTVHMjRwOHBhaW1FREYxcWZWSnZqYVJfb1E3MHhlM2p6UDh0ajFfOC11UVdYX2EtYTlmLUladWVvc1NCZnllOEYwbW9tYmdmODdIdFRxTnAxVGRKdWhCanBmdHIxMlhPR2FoWFQwNFJKUUh0eVNxOTUyRGE0enRBQUE2R3VqTm9KR0l2UmQweVZHVjkzdkk0b0ZnTUFMd9IBrwFBVV95cUxPMlplVGMyYWpKNnJObEdyRUpMMDFUdFE1S0xJNVBsTzlhNUlHZTdnRXhsN0RjYTFwY0VFdFBvUnFzUXRsUEF6YnJCY09YRGhvM1lWSGtNTWZTanpXN1RKUUxCQ2VYbEFZSjJpN2dUWWRWZHVsS0pFSllLMXhoQUFmRmlGdXJ0MmxnUk9ZWGtELWV4NUE3Q0pBNzhXRHJOUmdZT002eHlkY21pSUF0Sl9j?oc=5)  
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
-- **(13)** [Moscow launches smart construction site - Smart Cities World](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOE8wb2lJWXpBNy1rMG1ZX0k4YmpPNklORmZLZWQ4OV9pNkZmVXhaVHFkMFNNbGhCZUZWQmx0WVpKdjBpSXVrZGVQVW5EcUtOZURvLUNpcFQyaXpWd3FEVlRQSFlEOEhMekZwaU1UQ2NrS1dPVldxeWxtVk5LaWYwcjdYUmtRbjNSLVE?oc=5)  
-  _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
-- **(12)** [Wabtec Finalizes Acquisition of Evident’s Inspection Technologies Division - Business Wire](https://news.google.com/rss/articles/CBMiygFBVV95cUxQTjY4cXdfaDVXemUwTUV4b3FZX1hoLWtLWDFrSkEzVnlnNnJzN1NzR0NCbFd1VFNJSUt5dEo2Skw4eDZnMXhvNzVmYndaOFVFX1lpbHVWRmFfSjVJbXlFcU4zY05wMWhJUnZkXy0xYjZjMVNHWHZhekdlVlF6bW15N2FaNkQ0d0liVFF4elRJSTVfLVBOVkxvR0ZaMTNWbV9FVjl6YUVBRHVUNXR4NFlCX1ZyOEJrak9HZy1WOXA0TEJEMXJRZGZzVTJn?oc=5)  
-  _A_global_market | A - Industrial Inspection / Remote Inspection (Google News) | Tags: acquisition_
 - **(12)** [Acquisition combines companies’ automation capabilities - Today's Medical Developments](https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0VVTXpLNEpKeVRkNU1tUUdjTXllMmxBT000RDYtUGV1WFUycHAxaEtVRUhpOHNzTUZEcHI5Y1NLeGx5bmhqZXhBa09rRlh3ckk0STJlYkZ5QzhCenJERll1U0YxNkFqQkFtTUtDbTJBajhPRUpBQS1pTXJzTzhCcTRZV3JyTEk4MEx1NXVNTldETUp6d0tBSEUwdi1kWl9oTURpTA?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Teledyne's ADQ35 Digitizer Provides High-Speed Data Acquisition for Advanced Applications - Automation.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMXB1ZURnSDVBZU9lZktSWUc0R1I4VlNFX1NGZHFqLVVqNkNyZC1sUDZyTkpCQ3pNdGRITmUyU0s5WHFEYnZtYk5tUG1aQjJ3ZnhJR2ZNVGNadTJ0aUhBeU9ic1N3dVRZamZOQkx4YXZvVFJZQnNSRFMyT0NoWjBfQWh1dEQzUmpqTFpVZmZIRzc5aGs5ejc1bFMzcHA2ZFRsaGdJY3JZemFvN3JJRnc?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Carrier Completes Acquisition of Blaich Automation GmbH, Establishing First Automated Logic Field Office in Germany - Carrier](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFFNcUYzOFVtdHZ2T0JZSDhlRG5rVm96cjhka1hvcEJnUUF5dkFpbHk1REc0RzJPbnRuOUt5Wk5MUUZaX3RReGtQSExCMzROX1Vrc1k4WUF5cEI1aHlTV2FaRGx3WWp5WEJuMm1jVjJSUWhBYlMzeXBma2Fpbk4td3RFMzd5YWVtR3BkVlFCT2hsWWFaaTV5Mm12R0huOENibVMzeTFuSmFEU09fYm9RLXVCWXhmSnFzcngtckhNVnNtNHBta0c2TmM3N1R1VmRmcEY3ZFVOeVh5M2JCTVNxSEtIanUyb2hvQ0N4Z2N6U051ZUNsRVNtMDJiaGJBWkxKNjNpRUNBZ2Vabnc?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(12)** [AAE North America Expands Capabilities as Part of Global Growth Strategy Following Solara Automation Acquisition - Newswire.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHhCelA1WHhDemhOOEFUdzdlR1JYYmNRaW9kcURKY3JzcFRJNnF0Qmx0ckhZUTRhcTZrRUhMSXNKcWZlaTYwWHlQa0VkdFgtaTl4ZXFIZ2NVTGJrQTRNTEgtNGptNnN0VVRfcGpROTVmNjVrUkpPUGhQUXdfVFJzWi1QZlBRczdxLUFhWi1VU3lpRXpFdS1vMHFDZEsxbzdlWDFZTA?oc=5)  
+- **(12)** [What the SpaceX acquisition of xAI means for industrial robotics - The Robot Report](https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmJzTHhFR0hKOTdPbEVtX2VlQTIyZnBNTGZKaDczeFlNY0U4dlB0eVk5ZHBQRGJkVGtDR2pIYmVnNkZpUl9ZdV8zVlNjdHJydHMwZmd4SXdxV3E3T2oyQXRhdlAzdXpDOF9TWjk3dWpFY05veFRUYUVYOUt2cmtLektMQUJVZ2V1NVlOVTZPTmdSTlk2aV9fRw?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(12)** [ABB announces acquisition of B&R Automation - Automation.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3ZDVGtXQUNMOUo0VndRMWx1Q0YySWQxTTNkR2plTjBzdFVObVJiZ0ZMalBxUDFEOUMzRm5nLW1RT0dwb2ZtQl95M096V0JES1h2aGVHTTRKZnR3WlY0UTBaY3B5bjlNc2dxeXhya2ZTcWFDRmdmSmp5RXRkc3hYS1Uxcw?oc=5)  
+- **(12)** [Agile Robots acquires thyssenkrupp Automation Engineering - The Robot Report](https://news.google.com/rss/articles/CBMikwFBVV95cUxQelA5OGxjZkNwSTZJWU90OG9tOVRkbkVuSDE3cHF4N3FuMnBXNC0yMUo4akp0Vk1fb3V6TlNmOWJqWkpJYXlrYUlCTUNwOGNjWTI1a21uazg4dkpRLTd4Nzc2N18xOHNTeHFtRG92Zk0yRklnaWVzQW83N21kYjJWRTNoVWFUVlVFci1May1TM1dsaHc?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
+- **(11)** [CPP Awarded $7.5M to Launch National Smart Manufacturing Research Center - Cal Poly Pomona](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSk5jS1lPRlg2RHNtRjNsNWNOS19vdE1XcDlBV2tRR3RtTEdhLVRYQ1d2VGNYZVptVWFFWFpmdjRFQ29tRE5ic2ZKM2hWZ2wtbjVDVHJGUmNGdklzSHlqZE9SYzV5Q0dZaE9UbTRKV3d5a3paMzJZY3BJQ1BUam1rODRITXVmbmF0RXlINUlqcEdZVHdxR3lJLTBnNERrNGltaW5tUFBMUkRJU0ZnUHBDNjdjYm1sQ1lOQ05IaWZxc3pSUQ?oc=5)  
+  _A_global_market | A - Smart Factory / Industrial Automation (Google News) | Tags: enterprise_deployment, tender_project_
+- **(11)** [Construction Site Monitoring Systems Market Analysis Report 2026: AI and Drones Fuel $5.13 Billion Market by 2030 - GlobeNewswire](https://news.google.com/rss/articles/CBMikAJBVV95cUxPeUFxb1lUWnlSa25DUjI5clhRc2ZFdUVGRXhsYUVyU0s4NE9DQ2VISlpGVDJ6Vy1pWkFIRWdyVWZUWE1YSjJIdF8tVVFjVjJvMHBKZnJEVlN6SDkxVmJrNzVZZzdtTGplZnh5M2FoRkNiZFg0REVmUk5jVXd4UGZUWEVCdEhSYzEySXh4czBpT1BQRlJ2UHFKMHZfb1FpQnNBNURyUi10WHVLTm9ESGhaSmtlTU5NUkpYUGp4dFZMc29XTlpZWEZFUy1fLXI5dVhvUnZXOW0xNk9lLXZMdUhWbFFuVjA5SWdqMGtlNkx5Qm45MTV1Y21yX3JBdUVTRlM3VE9TUjZxVFJ3RzNZZ25ndw?oc=5)  
+  _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
 
 ## Notes
 

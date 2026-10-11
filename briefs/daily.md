@@ -1,8 +1,8 @@
-# Industrial Trend Brief - 2026-10-10
+# Industrial Trend Brief - 2026-10-11
 
 - Total unique items scanned: **120**
-- High signal (>= 18): **9**
-- Monitor (10–17): **24**
+- High signal (>= 18): **8**
+- Monitor (10–17): **25**
 
 ## 🔥 High Signal
 
@@ -18,8 +18,6 @@
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(20)** [Rivian’s industrial automation spinoff Mind Robotics secures $500M in funding - SiliconANGLE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlRPZDN4M3VPcU54X3FVeXVncFdxdkVvT01aTWI4X2Q3Q2l1dXBpZFhmaUgzR0hXVG9neFh0VWRneVJ5WlNZY3praUdnX0lvR0o5SHBVNUtudkdDSHBzMThPdVBHTk54dWdKR1BYbENsTDZ6QWRsallfcVBQR1lSUUZhUjhRb2kzdmREdm1na0dXaUNnMjRWQ3k0emZDbGtQblJYeHI0N1dVTHRnYWc?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
-- **(19)** [Proficy Smart Factory 2026 Webinar: Building a Predictive, Agile Manufacturing Enterprise - GE Vernova](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm03dld1UDlmMGdyU1FvVkxqTkt1WkhnbXFSRVNqVnNMX3ptMGFzdG5GZnFSMTBEcTBRUzVXX240YjNaNjk1Uy0tZEFxZW9FcXZBbjlRT0lRMGZMakZ3Mk1HSmwwYmZpRkQ4b0h5ZU9wWVo5a2lzUHVtZ1FfR1RXTVFjU2llWExNclVPZUJxTW1Qc3BUajJHRURkYl9tVkRTVG9feGlGbDMxbnZ1bkx2LVNGME9JendkdHlBSUI5OFYxal84VlE?oc=5)  
-  _A_global_market | A - Smart Factory / Industrial Automation (Google News) | Tags: enterprise_deployment_
 - **(19)** [GeoAI, Reality Capture, and the Future of Digital Twins - Esri](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkJxcUF1M0MtMkcwT3hzbldGRGNsTm1NTjNNVHNDdVBwS3BpRXhnVERMNGFBTzNTamhSN004VktOUk5ZbTFsemR1V25xQ19SNEFHaFAtMXliY3Fza2NrTmRIWFRwb3dOeXd2d2ZFMkt6TWZTSzFVbDcwYzRFY2RkUHd5X3JscldPd2lLUll6cHhoLWkxUE02YWZxOTA2RUhXTDFIY28wY1A?oc=5)  
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
 - **(19)** [3D Reconstruction of Small Flexible Objects With Slender Structures: Reconstructing Conifer Seedlings for Development of Computer Vision Systems in Virtual Environments - Wiley Online Library](https://news.google.com/rss/articles/CBMia0FVX3lxTE9aSzd0WmFIWnNkT05za05Vc0R3c1FhaGFtMXBDcVZtc281M0FFVW45SlRMTGFSeTlHSUdjVzJrbldUdlNyU1FUMF9CM2xGMnJVUXI2U1gxSjlpZHZfSzNBSWRfU1BoalM5eFRB?oc=5)  
@@ -43,11 +41,13 @@
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
 - **(15)** [Edge AI Software Market Growth Accelerates as 5G, IoT and Industrial Automation Enable Real-Time Intelligence - Yahoo Finance UK](https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1h0TXQwMEpzZnFWOUM3ZmttZDVRVU10QzcwU3FXQk1uT0FmeUV3RDdWejFZTTVfNTNheHZvSktaYUxXWHFYVHJpMmpacUREb21WZ1B4ZDZYS0dJRjBWcDZ1bjNkSElJbThpa2VrX1NycDBKTjBfNG9OaVp1RV9uZFlxcFFIQQ?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News)_
-- **(13)** [CIC Global AI and Smart Construction Conference and Exhibition 2026 Concludes Successfully with Over 12,000 Visits - Plataforma Media](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeV9wS0ZsZkhaVmZTTEFzWEhvX1ZDTE4waEVUZE9kZWNFQnN2bzZrT01GaEFYTW4wcnNTTGVPWThmUU9EallZNlBvb1M1UThNM245akxMc0tZUDhjY25xMm5BNW5SaWxoY3NPaEhOWGRaSERKNzVuZ1NNWWhSa0ktanQ5cTRsVUR1eEZDQkZ3TV9fRl9XZVUtS09JbUo2dktDSGdwbVo2ZlFCODctem50eXVGVWdCajB5bl95LWk4TGlldGVWRVJCWGdaM192NTlqY0M3YkhpcXFRQXJkd0p0akhia3U5SkVCUnFwYkNLNW5hQQ?oc=5)  
+- **(13)** [CIC Global AI and Smart Construction Conference and Exhibition 2026 Concludes Successfully with Over 12,000 Visits - PR Newswire](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQURGSEl6alAyczczbktpNGhKR3VsbjBLUkx3YV8xNDNzcFBTMWRjcEpXNS02S2ZRakZ0VVU1VUQ3ME96LWRRbXJDVThWZU1UQ01mZ25oLW45Y25hU0lkS3E0bU9FZ0tzSFJQX0xZUGNFWVNDdURXMUNhR1NlaDdRT05CVjlERnJuOGo3ZnFvWnBQWnI3X2FmMEc3SGtDQ09rUzdHN0FzT2lNVFFabThpUml0WUpZWmp5NmVpVzYxR3ZnU2RPc1JrWTBpSTFmMnVKd3VTck9xWG5UazJ2QzVWamdlajd5LWNVc24xWUs2TE1EaFdvV25BSXlCY2pKRmM?oc=5)  
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
-- **(12)** [Schneider's PTC acquisition brings together 'one hell of an industrial stack' - Fierce Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkM1RWtJdFlXSy1MOHBRemhuTmNCUmE1UUdGZFk0bFZhcXRHTmNBQWxKV3FKdWNoY2FDTVdGYXVsRkNXMVNMVlZLQWpxTFI0cFltVEJWZXVkQkxTN3NxOUJ2WUNVR1NtRXlqX3g2Xy1ucnB1T2FyU2JIb0U5SU1nMTFQUk1yZHM1dGF6dmpPaDlKMWNOMG04UExlMWlzZmxsWk5EbFpuNV8?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
+- **(13)** [China’s “Smart Construction Sites”: The Latest Tool of Mass Surveillance in Tibet - Bitter Winter](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSG9OYjNaVE15cVJNUlhmSFowQ19ZQTgzTzY3a3M1VXFLaWh5ZEdKb21Zd3ZvUjltRVJiNjZtZU1mb2ZRRXJmT0lKeVRfa0JzZmwtSnJkeGtkYk5BUDY4Vzc4Q1hqZExPbU04Z19QUVJSdHZtZE9iY0djdmR3QVpOLU9zUmppNEJ6Y1hEeGRFSV9iSXhKVTljYWk1MXViOXpROXl6S2tn?oc=5)  
+  _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
 - **(12)** [Schneider Electric to Buy PTC in French Industrial Giant’s Largest-Ever Acquisition - Morningstar](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0dVcnl5YS1henNUU0Y5Y2NBNkhpbWUyODhxRzdtNVUwVERBOW92SGhBLTFUaUYtX1FmWGhHaVRSb1R6V0ZfY2k3MzAtMk1SOHNob2ZqNzBMNVpjQU00anZRU18zSVJOT1JYNVE1a0JQeEZFUzAyWHlrNHN1Si1tYktTUktjaXJuaWhYaWpBQjdCbnFhb0pvWGtFMmkzUEtlbk1iaXd0RWlIbmZzR0xMcUlwZmxWM1BmdEZhZQ?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
+- **(12)** [Schneider's PTC acquisition brings together 'one hell of an industrial stack' - Fierce Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkM1RWtJdFlXSy1MOHBRemhuTmNCUmE1UUdGZFk0bFZhcXRHTmNBQWxKV3FKdWNoY2FDTVdGYXVsRkNXMVNMVlZLQWpxTFI0cFltVEJWZXVkQkxTN3NxOUJ2WUNVR1NtRXlqX3g2Xy1ucnB1T2FyU2JIb0U5SU1nMTFQUk1yZHM1dGF6dmpPaDlKMWNOMG04UExlMWlzZmxsWk5EbFpuNV8?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [ABB expands automation offering with acquisition of Rotork | News center - ABB](https://news.google.com/rss/articles/CBMingFBVV95cUxOeVFtVmVfTmlqMHRUaVhNODN1TU9pZE9NUFNkVEI0TnNjRFdoNy1kb2ppNktzRnZkb0NMeENmZWlEWGdhcVBWcXVrRTdEYXlTQ29CNDg3dlFKTmotZTkzTTFQVFgxOEp6UThCby14VUNHUFBRekdPVTUyNzg0OUN5MkY5OHZIY2xEVWlWVXY1czlRemI2aVlWNG40aVFkQQ?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
@@ -59,14 +59,12 @@
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Accenture to Strengthen Capabilities for Software and Automation Solutions from Siemens Digital Industries with Acquisition of Industries eXcellence Group - Accenture](https://news.google.com/rss/articles/CBMioAJBVV95cUxORm9lR2lqcHdYeUFtODhpd0ZDcUhnRzJVLXNOMm4yaTRBdVdyRm9UQmlJRklIZTh1MUVOWHozNkRPc20yczI3X2plSy1vQXgtUnQ3NXdrX1o4bjVaWlJxVFU1Z1pkaGxrbzNaT1pQb0wwbnF3aDkzMDJqT0lndnExTWVlSGVpcFBnLW5DS3BYdzVfM1l2ZVRWWkcyME5OVXNsLWtHa2pkNTZSSHRVZ2RNTWZtTXBrR19OYzQ4TWp3elVPUll4dU16QUJIb1BkNWFrT0xpazNXeEYyN1c1NjJ1Q0FwSHJCdm5oTHBhQ2E1ZVAyMWwtQTc1cGxubHRPdlhFNVJfcWgxc3N4Y0RmS2dyU0t4WkN0SmR2UTJ6SmVwWGg?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(12)** [Healthcare Triangle Pursues $30M Acquisition of Roboticom Industrial Robotics Assets - citybiz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFh1TFBWYjZ3QklzLVlQSzlKbTNNTEJZQTVKdkRrNHRsYV9MRWpBQlJBdjdlNWNUSW9OMGt5NzgwWUxCenRvUVYtdHE2Y2hldU5hMHFwQzJCc1VXeTdDWlVyVl96X3A0RFItR1JucllpaUUtVS1rc2dSN0s5QXRnOWNVeU5jbTVCX1I0NkFKVWhXc1NaMFd1ZVpMdVA5bl85WTBaUlFrcURISFh3QmRaZWVwSjMzQ2s2cHJPa2JQbw?oc=5)  
+- **(12)** [Tavoron Expands Automation Capabilities with Acquisition of Fluidraulics - Business Wire](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWdvSTQtTzN6S0hCaVZKQ1pvRV9EQUV4ZC1ZeVR1YVVxOW9MY2htR19FNkVqUEtkUDluSTZEajRucGtIbFBnOHgzeTVUTEtWVjNXTTh2WDhJeHZGcHo4QVU1dHdpb1VEQS00QllDSUtTME95emp1TmlvTjNkZlRTbWRZUE9wZGxkLThVQ0lYbEt0ZTgwbmJxVk5ETzRRMVVTc2NqTHZ6eXdoTVN2MFltZ056S2U2MV9YZ056MDBoZU5DRTdHcFdPOA?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(10)** [Revolute Robotics raises US$2 million to launch hybrid driving-flying robots - LNG Industry](https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0ZXckRIc1BhTzFiUWxhd01wc2JSVzg1c2t2M0lCTzM3bEMxVVZiOF9LQ2NsMk5wNEM3czUxQUdVX3FoZnRJaDVRelZNbnA4WVBNSW15UUZTWlhVckh2MTVRT01DT0YzeFZuVEFpRS1RY2prbWVyWEZkWFZ1T0hCTWZmRkphbS1ZdEZ5UXNMV3JkSERwb0p4a1RMMDF6cWRGQm5DZU1wQUl4YTZNNFduXzVGazlQVFlRVDBtd0dDTkhsZnFu0gHKAUFVX3lxTE8xcXRmb2J6WXNsdmNPcm1ZazMybVRKNU5Ib3o4eWtXNHpGdzBROWJZQWRuVmdTVFBDazNmVDNIaGE1OFdhbFNjdVhtSXphNDhVQ1diY3U1c004ZWxPQ2gzbXZuMTQyM0JmaHFVYkNsbUFjNDdIR3d0OGxvNU05VHNoTjNzeWI5VHNyRzRJUkdJSHhRR2c3cGxNaVlBVXV4ZUhQNkUwMVp4Sk5yLV9mTFZqZFFweDR0T1dKV2xqdEZSeWUtODBJYXFXOVE?oc=5)  
   _A_global_market | A - Industrial Inspection / Remote Inspection (Google News) | Tags: funding_
 - **(10)** [LH deploys AI monitoring to cut accidents at South Korea sites and rentals - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGJZZHdrejE0Zm5tX3k2d2NHVXpiQ2pXV0lqNm12clBkcGV5NUVjVTlDNGZBaC1IZ05XYUZpMnFYaDVQeU1rME5OdFZGRDZ4U2lpcWpYcl9yRFh6S2ZvMC1vMmdBTnFtR0dzZlQ4TXZfM20tRzgtajJrN2U3SXNSMGgwZVXSAZgBQVVfeXFMTzB1NHpOWkQxZzYzODhmZV9EdzZZR0czcHlrdTM3OUptcXBCdHhVdExaOFJ0dEVJcVFNX0VNTzRKRml4Z085YmxUaks2QzVhWGpQOUh3eS02aHE2dVdSN1hSSnMtWFc2NzRHLUltSURYOUd6ci1uZ2I4MmJ5WnVEd0t3ZU5RWHhHSlhxS3M5THd0eVN3RS15bjY?oc=5)  
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: enterprise_deployment_
-- **(10)** [Robotics startup RobCo valued at $1B+ in $40M funding round - SiliconANGLE](https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXdEQXAyQTlRLTVNM2N4bHB6M0RCNUl1QkdGWlJKYlIzMEFFVUx0VVpSTFZoRFF1OUlWaV9PT19DSURNdjczdzJGbm1hZ1NFaDRvVjR4Tk9tdFIyQ3lzemNWZlhVdHdRRU13b3huSGs0LUkwMnNaT1JKS0I4MUthc1NPYUtsbTN4amVUbENYV0d2Z3drMFFEcg?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
 
 ## Notes
 

@@ -1,8 +1,8 @@
-# Industrial Trend Brief - 2026-10-14
+# Industrial Trend Brief - 2026-10-15
 
 - Total unique items scanned: **120**
-- High signal (>= 18): **9**
-- Monitor (10–17): **24**
+- High signal (>= 18): **8**
+- Monitor (10–17): **23**
 
 ## 🔥 High Signal
 
@@ -21,8 +21,6 @@
 - **(19)** [Proficy Smart Factory 2026 Webinar: Building a Predictive, Agile Manufacturing Enterprise - GE Vernova](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm03dld1UDlmMGdyU1FvVkxqTkt1WkhnbXFSRVNqVnNMX3ptMGFzdG5GZnFSMTBEcTBRUzVXX240YjNaNjk1Uy0tZEFxZW9FcXZBbjlRT0lRMGZMakZ3Mk1HSmwwYmZpRkQ4b0h5ZU9wWVo5a2lzUHVtZ1FfR1RXTVFjU2llWExNclVPZUJxTW1Qc3BUajJHRURkYl9tVkRTVG9feGlGbDMxbnZ1bkx2LVNGME9JendkdHlBSUI5OFYxal84VlE?oc=5)  
   _A_global_market | A - Smart Factory / Industrial Automation (Google News) | Tags: enterprise_deployment_
 - **(19)** [GeoAI, Reality Capture, and the Future of Digital Twins - Esri](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkJxcUF1M0MtMkcwT3hzbldGRGNsTm1NTjNNVHNDdVBwS3BpRXhnVERMNGFBTzNTamhSN004VktOUk5ZbTFsemR1V25xQ19SNEFHaFAtMXliY3Fza2NrTmRIWFRwb3dOeXd2d2ZFMkt6TWZTSzFVbDcwYzRFY2RkUHd5X3JscldPd2lLUll6cHhoLWkxUE02YWZxOTA2RUhXTDFIY28wY1A?oc=5)  
-  _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
-- **(19)** [3D Reconstruction of Small Flexible Objects With Slender Structures: Reconstructing Conifer Seedlings for Development of Computer Vision Systems in Virtual Environments - Wiley Online Library](https://news.google.com/rss/articles/CBMia0FVX3lxTE9aSzd0WmFIWnNkT05za05Vc0R3c1FhaGFtMXBDcVZtc281M0FFVW45SlRMTGFSeTlHSUdjVzJrbldUdlNyU1FUMF9CM2xGMnJVUXI2U1gxSjlpZHZfSzNBSWRfU1BoalM5eFRB?oc=5)  
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
 
 ## 🟡 Worth Monitoring
@@ -43,12 +41,12 @@
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
 - **(15)** [Edge AI Software Market Growth Accelerates as 5G, IoT and Industrial Automation Enable Real-Time Intelligence - Yahoo Finance UK](https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1h0TXQwMEpzZnFWOUM3ZmttZDVRVU10QzcwU3FXQk1uT0FmeUV3RDdWejFZTTVfNTNheHZvSktaYUxXWHFYVHJpMmpacUREb21WZ1B4ZDZYS0dJRjBWcDZ1bjNkSElJbThpa2VrX1NycDBKTjBfNG9OaVp1RV9uZFlxcFFIQQ?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News)_
-- **(13)** [CIC Global AI and Smart Construction Conference and Exhibition 2026 Concludes Successfully with Over 12,000 Visits - Plataforma Media](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeV9wS0ZsZkhaVmZTTEFzWEhvX1ZDTE4waEVUZE9kZWNFQnN2bzZrT01GaEFYTW4wcnNTTGVPWThmUU9EallZNlBvb1M1UThNM245akxMc0tZUDhjY25xMm5BNW5SaWxoY3NPaEhOWGRaSERKNzVuZ1NNWWhSa0ktanQ5cTRsVUR1eEZDQkZ3TV9fRl9XZVUtS09JbUo2dktDSGdwbVo2ZlFCODctem50eXVGVWdCajB5bl95LWk4TGlldGVWRVJCWGdaM192NTlqY0M3YkhpcXFRQXJkd0p0akhia3U5SkVCUnFwYkNLNW5hQQ?oc=5)  
+- **(13)** [CIC Global AI and Smart Construction Conference and Exhibition 2026 Concludes Successfully with Over 12,000 Visits - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcE5rai0yTFA0WFJvWERoSk9RRk80Z1pXREdoTzJqMm5RdG1VWHJ0NEV3VzNuTC15bFFsYktJMVl2UjFac0daYVdiUGRmZFZDT2xmQThuRUU0TV80M0RDUlhLa3dvUlFqcE5ZRUdjdzhmSGxlTzhCVzBhbmdwdXNzclZmZUxNcXp3?oc=5)  
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
 - **(13)** [Dongbu adopts autonomous drones, AI to upgrade construction site safety - 헤럴드경제](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pcGV5aHYteDJjNDg0VlZFbkREUFZHS3dERUVOWFNyNDltYWVxRzNpWUFQRlQ2UkJEYkFTLTRJT2FCU3lFZkNVcmVXeGFKOTBsdFpwNm5yQQ?oc=5)  
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: enterprise_deployment, construction_project_
-- **(13)** [The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMisAFBVV95cUxPanl0cE4xQnN5VXN1Z3J4NlhNTndHVHdiODJ0cjg4WXJDc3k0SmV3VHVqQ0g0b3o4Y3ZvdWIwSzlQaXVhRmgwTi01TUFkcWI1aGxIRW5Vc2VmSUozU2NBZ3FIWDFwUy1lWGdYSV9GdUxONlU1QjktQ1BKd1BhNm1Ka1VTNzF1SFBIWTRBS2ZDWmplbk9BemFuRnFyNHMwdjgtNF9tOFQ1LVRWMDRLdTNLVQ?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
+- **(12)** [PTC acquisition positions Schneider Electric to challenge Siemens - The Robot Report](https://news.google.com/rss/articles/CBMimgFBVV95cUxQc3pZNUFqMUJXN1lscVRkNUllUXhYdmp3SGJRcWs3VUw3bi1uYnJVLTY5QmU3SjVlVVBhVTY1MzYtOVBBcU83R1BwZjVoandxRjFGSjQyemF0cVJVTUxwdC04TmYxN1Z1ajJJbzlhVFpMYjJzWGVkbTBTbTRUejM2eGkxYi11b2hXbGdOMG4wV1pYYnhkb05mTVlR?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Schneider's PTC acquisition brings together 'one hell of an industrial stack' - Fierce Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkM1RWtJdFlXSy1MOHBRemhuTmNCUmE1UUdGZFk0bFZhcXRHTmNBQWxKV3FKdWNoY2FDTVdGYXVsRkNXMVNMVlZLQWpxTFI0cFltVEJWZXVkQkxTN3NxOUJ2WUNVR1NtRXlqX3g2Xy1ucnB1T2FyU2JIb0U5SU1nMTFQUk1yZHM1dGF6dmpPaDlKMWNOMG04UExlMWlzZmxsWk5EbFpuNV8?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Schneider Electric to Buy PTC in French Industrial Giant’s Largest-Ever Acquisition - Morningstar](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0dVcnl5YS1henNUU0Y5Y2NBNkhpbWUyODhxRzdtNVUwVERBOW92SGhBLTFUaUYtX1FmWGhHaVRSb1R6V0ZfY2k3MzAtMk1SOHNob2ZqNzBMNVpjQU00anZRU18zSVJOT1JYNVE1a0JQeEZFUzAyWHlrNHN1Si1tYktTUktjaXJuaWhYaWpBQjdCbnFhb0pvWGtFMmkzUEtlbk1iaXd0RWlIbmZzR0xMcUlwZmxWM1BmdEZhZQ?oc=5)  

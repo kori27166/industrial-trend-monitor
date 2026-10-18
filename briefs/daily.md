@@ -1,8 +1,8 @@
-# Industrial Trend Brief - 2026-10-17
+# Industrial Trend Brief - 2026-10-18
 
 - Total unique items scanned: **120**
 - High signal (>= 18): **9**
-- Monitor (10–17): **24**
+- Monitor (10–17): **23**
 
 ## 🔥 High Signal
 
@@ -49,17 +49,15 @@
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: enterprise_deployment, construction_project_
 - **(12)** [PTC acquisition positions Schneider Electric to challenge Siemens - The Robot Report](https://news.google.com/rss/articles/CBMimgFBVV95cUxQc3pZNUFqMUJXN1lscVRkNUllUXhYdmp3SGJRcWs3VUw3bi1uYnJVLTY5QmU3SjVlVVBhVTY1MzYtOVBBcU83R1BwZjVoandxRjFGSjQyemF0cVJVTUxwdC04TmYxN1Z1ajJJbzlhVFpMYjJzWGVkbTBTbTRUejM2eGkxYi11b2hXbGdOMG4wV1pYYnhkb05mTVlR?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
+- **(12)** [Schneider's PTC acquisition brings together 'one hell of an industrial stack' - Fierce Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkM1RWtJdFlXSy1MOHBRemhuTmNCUmE1UUdGZFk0bFZhcXRHTmNBQWxKV3FKdWNoY2FDTVdGYXVsRkNXMVNMVlZLQWpxTFI0cFltVEJWZXVkQkxTN3NxOUJ2WUNVR1NtRXlqX3g2Xy1ucnB1T2FyU2JIb0U5SU1nMTFQUk1yZHM1dGF6dmpPaDlKMWNOMG04UExlMWlzZmxsWk5EbFpuNV8?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Schneider Electric to Buy PTC in French Industrial Giant’s Largest-Ever Acquisition - Morningstar](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0dVcnl5YS1henNUU0Y5Y2NBNkhpbWUyODhxRzdtNVUwVERBOW92SGhBLTFUaUYtX1FmWGhHaVRSb1R6V0ZfY2k3MzAtMk1SOHNob2ZqNzBMNVpjQU00anZRU18zSVJOT1JYNVE1a0JQeEZFUzAyWHlrNHN1Si1tYktTUktjaXJuaWhYaWpBQjdCbnFhb0pvWGtFMmkzUEtlbk1iaXd0RWlIbmZzR0xMcUlwZmxWM1BmdEZhZQ?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Agile Robots to tap into new sectors with latest acquisition - Manufacturing Dive](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlFEVG5HWjY1QXpSazRWSldmN21CNnZmaUVZdTdHWmFnZm91a0VoMVo4c0NnRC0tQTdtUW42czZDTElfUkVmX1VGWEExU3VwMHAwZC0wYWw1aTBCNWtBLXBzQ1QwckUtZGtnS1pRdGt0cFc1bGk1bDRQREVUb0JkV3RYM1U5RjhtNXFMa0YyVG9QQlB2a2RYVUozaFBCSFN6TkYza3JfY3BuSktnVnl5ZlZXcHlBREg1c2Jr?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [ABB expands automation offering with acquisition of Rotork | News center - ABB](https://news.google.com/rss/articles/CBMingFBVV95cUxOeVFtVmVfTmlqMHRUaVhNODN1TU9pZE9NUFNkVEI0TnNjRFdoNy1kb2ppNktzRnZkb0NMeENmZWlEWGdhcVBWcXVrRTdEYXlTQ29CNDg3dlFKTmotZTkzTTFQVFgxOEp6UThCby14VUNHUFBRekdPVTUyNzg0OUN5MkY5OHZIY2xEVWlWVXY1czlRemI2aVlWNG40aVFkQQ?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(12)** [Schneider's PTC acquisition brings together 'one hell of an industrial stack' - Fierce Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkM1RWtJdFlXSy1MOHBRemhuTmNCUmE1UUdGZFk0bFZhcXRHTmNBQWxKV3FKdWNoY2FDTVdGYXVsRkNXMVNMVlZLQWpxTFI0cFltVEJWZXVkQkxTN3NxOUJ2WUNVR1NtRXlqX3g2Xy1ucnB1T2FyU2JIb0U5SU1nMTFQUk1yZHM1dGF6dmpPaDlKMWNOMG04UExlMWlzZmxsWk5EbFpuNV8?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Schneider Electric’s Proposed PTC Acquisition Could Redefine the Industrial Digital Thread - ARC Advisory Group](https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0hYandFeEE4UDBRZm5NZWlmUEtzblUtcXBqck52anZtS1F5UEtrXy0tMEh3eWZJNHRkMnZQbkpqdlc3VkZUaVhQNGdOdnhJTWxxenZaOGVZcjZvbllVOE9UZXoyclNlYVFmUDlOOGprRXBiN0pXV0xya29YX3kzQVdFT3lKZms4OThyWUhqYlRwUGFzQ0tQYjZQZEFlTlBmYkRCSEs3VFM4YThFU2t2Z29yYw?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(12)** [Healthcare Triangle Signs Letter of Intent to Pursue the Proposed Acquisition of Roboticom's Cutting-Edge Industrial Precision Robotics Automation Business - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkExQ29qV2ttN3M2Y1pyVnlBd0JHTEdHSkE5b1NQWlBJcjEyendxZDl4eUVjMHU1T3dlR1hwYWh0MWFYbzVIQkNvQ0QycC1wb2JzRE5mQko4Y2k2NUFaWUFnOXY0ajdMblUtUmxUUXR1MVppQUZ4Zmw1cjAtSXhkRERiZWNyUmpqRDZWNUlOcFFwVU5PMnM0WnVLSmxWWXZQRFE?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Accenture to Strengthen Capabilities for Software and Automation Solutions from Siemens Digital Industries with Acquisition of Industries eXcellence Group - Accenture](https://news.google.com/rss/articles/CBMioAJBVV95cUxORm9lR2lqcHdYeUFtODhpd0ZDcUhnRzJVLXNOMm4yaTRBdVdyRm9UQmlJRklIZTh1MUVOWHozNkRPc20yczI3X2plSy1vQXgtUnQ3NXdrX1o4bjVaWlJxVFU1Z1pkaGxrbzNaT1pQb0wwbnF3aDkzMDJqT0lndnExTWVlSGVpcFBnLW5DS3BYdzVfM1l2ZVRWWkcyME5OVXNsLWtHa2pkNTZSSHRVZ2RNTWZtTXBrR19OYzQ4TWp3elVPUll4dU16QUJIb1BkNWFrT0xpazNXeEYyN1c1NjJ1Q0FwSHJCdm5oTHBhQ2E1ZVAyMWwtQTc1cGxubHRPdlhFNVJfcWgxc3N4Y0RmS2dyU0t4WkN0SmR2UTJ6SmVwWGg?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
@@ -67,6 +65,8 @@
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(10)** [Revolute Robotics raises US$2 million to launch hybrid driving-flying robots - LNG Industry](https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0ZXckRIc1BhTzFiUWxhd01wc2JSVzg1c2t2M0lCTzM3bEMxVVZiOF9LQ2NsMk5wNEM3czUxQUdVX3FoZnRJaDVRelZNbnA4WVBNSW15UUZTWlhVckh2MTVRT01DT0YzeFZuVEFpRS1RY2prbWVyWEZkWFZ1T0hCTWZmRkphbS1ZdEZ5UXNMV3JkSERwb0p4a1RMMDF6cWRGQm5DZU1wQUl4YTZNNFduXzVGazlQVFlRVDBtd0dDTkhsZnFu0gHKAUFVX3lxTE8xcXRmb2J6WXNsdmNPcm1ZazMybVRKNU5Ib3o4eWtXNHpGdzBROWJZQWRuVmdTVFBDazNmVDNIaGE1OFdhbFNjdVhtSXphNDhVQ1diY3U1c004ZWxPQ2gzbXZuMTQyM0JmaHFVYkNsbUFjNDdIR3d0OGxvNU05VHNoTjNzeWI5VHNyRzRJUkdJSHhRR2c3cGxNaVlBVXV4ZUhQNkUwMVp4Sk5yLV9mTFZqZFFweDR0T1dKV2xqdEZSeWUtODBJYXFXOVE?oc=5)  
   _A_global_market | A - Industrial Inspection / Remote Inspection (Google News) | Tags: funding_
+- **(10)** [Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDRpUmJtanVlREYwRGlfcV9qdGJVOHpwZFl2M2J2ZlFRdEtIeWJmNUI2Z3ctNGhsaVBxaDE3ZWZpTkJJRnZIenFuVUJIdXZmbEE2MlFtQ0hUeW5UVWM4Yy1pZkEzQXpPb0tIaURJTmZseFpfMXR4b2xlMjNJMVpNQ0FHT2l1bVZLZzVENFZ3WC1KTUU1eXRLWHBtOWRxZUNJQ2tzbnpPdjFoMlBIcUE?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
 
 ## Notes
 

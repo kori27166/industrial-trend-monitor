@@ -1,4 +1,4 @@
-# Industrial Trend Brief - 2026-10-18
+# Industrial Trend Brief - 2026-10-19
 
 - Total unique items scanned: **120**
 - High signal (>= 18): **9**
@@ -37,7 +37,7 @@
   _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
 - **(15)** [Top 5 Companies Leading Innovation In The Global 3D Reconstruction Technology Market - SNS Insider](https://news.google.com/rss/articles/CBMiekFVX3lxTE43RUV3VWlWNFBJYzdWSnFodzgwTHByTEZtT0Y0dWp2dVFiSWdjUm1xblFmM25jVDh2Y2F3cEc5NHJBellCUDdPbmFGWDgwRnlRSFJxOUxzLVYwcWx2S211UER1RVZTVnh3RFQ0Unp5UGI3T3BQOW1Id3Z3?oc=5)  
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News) | Tags: tender_project_
-- **(15)** [XGRIDS Review: Handheld LiDAR & Photorealistic Digital Twins - Quasa.io](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNzM0WlN2MncwUHd4MDFwdUU2c2E2Wk1GWWphbGctdlB3ckUwZWhuT1QxbjFkTUxVZW5Nc0dqR0x5RWloVFZ3Z1VLYmdOY180T3JLWjAxaGhUcU9aOGZNeW12ZWdwZFgtOHJLQUMwZUxPOXRVMEwzQThDUHYxcGdGX3Qxb3V6d1k?oc=5)  
+- **(15)** [XGRIDS Review: Handheld LiDAR & Photorealistic Digital Twins - quasa.io](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNzM0WlN2MncwUHd4MDFwdUU2c2E2Wk1GWWphbGctdlB3ckUwZWhuT1QxbjFkTUxVZW5Nc0dqR0x5RWloVFZ3Z1VLYmdOY180T3JLWjAxaGhUcU9aOGZNeW12ZWdwZFgtOHJLQUMwZUxPOXRVMEwzQThDUHYxcGdGX3Qxb3V6d1k?oc=5)  
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
 - **(15)** [Unlocking edge AI for industrial machine vision - Engineer Live](https://news.google.com/rss/articles/CBMifkFVX3lxTE5yaklvbkdHOV9LU1JNSWZvY051c1QxSFBod3ZaZkpGT1pNSWx2ZzJocjBvRlBDdE1lRmdFbFhyR0tSNTdoWjIzRTVfcEZwenNqSE5NR28tM2t2Y0NCMEhmV0FPRVBFV0hraDI3dENDcE53bGx1TUpFLTVIeWJZdw?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News)_
@@ -61,11 +61,11 @@
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Accenture to Strengthen Capabilities for Software and Automation Solutions from Siemens Digital Industries with Acquisition of Industries eXcellence Group - Accenture](https://news.google.com/rss/articles/CBMioAJBVV95cUxORm9lR2lqcHdYeUFtODhpd0ZDcUhnRzJVLXNOMm4yaTRBdVdyRm9UQmlJRklIZTh1MUVOWHozNkRPc20yczI3X2plSy1vQXgtUnQ3NXdrX1o4bjVaWlJxVFU1Z1pkaGxrbzNaT1pQb0wwbnF3aDkzMDJqT0lndnExTWVlSGVpcFBnLW5DS3BYdzVfM1l2ZVRWWkcyME5OVXNsLWtHa2pkNTZSSHRVZ2RNTWZtTXBrR19OYzQ4TWp3elVPUll4dU16QUJIb1BkNWFrT0xpazNXeEYyN1c1NjJ1Q0FwSHJCdm5oTHBhQ2E1ZVAyMWwtQTc1cGxubHRPdlhFNVJfcWgxc3N4Y0RmS2dyU0t4WkN0SmR2UTJ6SmVwWGg?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(12)** [Healthcare Triangle Signs Letter Of Intent For Up To $30 Million Acquisition Of Roboticom Robotics Assets - Pulse 2.0](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1pNRHhsLUY3Z0V0OU56X1hDMzNHTk13bUp1d1VTWUJ4dzdCc0hlOVpoT3luaWoxZnJPU21xcFJjbGJhTXVQbzdnLTRpQW5FWTV2b2FVWjU0MTJZVWFlUzVtSllDSHpTWTlPTEtoUHBLNXFQbmJLaXRCaURLOVRiWXBYV3haa2ZITTdua1c0SndoZ25RSm1jRGRqVXpBUnRESzNLN1B1LTJ4TkZCWDJ1TWlMSTFpMEI5LXgwbHFqck5WZ9IBxwFBVV95cUxQYlBXS0w2S2kxQVpRWlZIZ3FCYks3SUo1Y2xMNUxKUVBjS2w2YW05M1NraWFaM2pOdnZpR1V2NzZfNjBVdk41ZE9UbWdyUC1NRUtYMG5ieFliWEtiOF9GeVhvNUNwSU8yMWowa2hiUmpQVVlxYU9oQjlsV1BSUG15c2lRMVZlOGdYa01IdkE1Y1FNQlFNc0JBa3NoV3dLN015TTJydzJCcmVxS25yUE9pVkdjTW9pWVhYNFIzczVhTlhGOEZUOXJF?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(10)** [Revolute Robotics raises US$2 million to launch hybrid driving-flying robots - LNG Industry](https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0ZXckRIc1BhTzFiUWxhd01wc2JSVzg1c2t2M0lCTzM3bEMxVVZiOF9LQ2NsMk5wNEM3czUxQUdVX3FoZnRJaDVRelZNbnA4WVBNSW15UUZTWlhVckh2MTVRT01DT0YzeFZuVEFpRS1RY2prbWVyWEZkWFZ1T0hCTWZmRkphbS1ZdEZ5UXNMV3JkSERwb0p4a1RMMDF6cWRGQm5DZU1wQUl4YTZNNFduXzVGazlQVFlRVDBtd0dDTkhsZnFu0gHKAUFVX3lxTE8xcXRmb2J6WXNsdmNPcm1ZazMybVRKNU5Ib3o4eWtXNHpGdzBROWJZQWRuVmdTVFBDazNmVDNIaGE1OFdhbFNjdVhtSXphNDhVQ1diY3U1c004ZWxPQ2gzbXZuMTQyM0JmaHFVYkNsbUFjNDdIR3d0OGxvNU05VHNoTjNzeWI5VHNyRzRJUkdJSHhRR2c3cGxNaVlBVXV4ZUhQNkUwMVp4Sk5yLV9mTFZqZFFweDR0T1dKV2xqdEZSeWUtODBJYXFXOVE?oc=5)  
   _A_global_market | A - Industrial Inspection / Remote Inspection (Google News) | Tags: funding_
 - **(10)** [Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDRpUmJtanVlREYwRGlfcV9qdGJVOHpwZFl2M2J2ZlFRdEtIeWJmNUI2Z3ctNGhsaVBxaDE3ZWZpTkJJRnZIenFuVUJIdXZmbEE2MlFtQ0hUeW5UVWM4Yy1pZkEzQXpPb0tIaURJTmZseFpfMXR4b2xlMjNJMVpNQ0FHT2l1bVZLZzVENFZ3WC1KTUU1eXRLWHBtOWRxZUNJQ2tzbnpPdjFoMlBIcUE?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
+- **(10)** [Standard Bots Announces $200 Million in Funding as it Expands Manufacturing - Automation World](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb3BVa0EzekNsN0NlaVlUNEZSeEZGTHRRZ05rMzRfMHNfZDEtSkMxU2M1TjNablRDZUdJYUlyQWlrNFhNeEwxVDEzckFYN192WG5FM19LUzFud0pPTUkzdFJLR3JNcnNqWmJFa28wY0Fhc3BSdW1BVEhoc2FNZFdVU3QyaEZsSnBfaDI2Y3N6cktnWXgzdWtCV0x2RzdSbmw3Z0JILWVKNjRuYS1oakNyaVlmQWozWjRsdUlVRDIwcVZqbk9RS2l4Wk1qaUdRbExLOVdFdFhUZkhyZw?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
 
 ## Notes

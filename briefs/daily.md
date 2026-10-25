@@ -1,8 +1,8 @@
-# Industrial Trend Brief - 2026-10-24
+# Industrial Trend Brief - 2026-10-25
 
 - Total unique items scanned: **119**
-- High signal (>= 18): **9**
-- Monitor (10–17): **22**
+- High signal (>= 18): **10**
+- Monitor (10–17): **24**
 
 ## 🔥 High Signal
 
@@ -24,6 +24,8 @@
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
 - **(19)** [3D Reconstruction of Small Flexible Objects With Slender Structures: Reconstructing Conifer Seedlings for Development of Computer Vision Systems in Virtual Environments - Wiley Online Library](https://news.google.com/rss/articles/CBMia0FVX3lxTE9aSzd0WmFIWnNkT05za05Vc0R3c1FhaGFtMXBDcVZtc281M0FFVW45SlRMTGFSeTlHSUdjVzJrbldUdlNyU1FUMF9CM2xGMnJVUXI2U1gxSjlpZHZfSzNBSWRfU1BoalM5eFRB?oc=5)  
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
+- **(18)** [Automation Distributor Tavoron Makes Acquisitions in Michigan, S. Carolina - National Association of Wholesaler-Distributors](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlNKbDlCVWRpOVVZMUtpc016QkhYVmZ5eDRUbDg3Q09ITXBBRDRPTjZObkJNZ0N1TThscWlRTlJ2VXZaMDV4WXFmYnN5b2k0eFd3WHhWZmVoTFByZm52cjJtUFJONFliRktIdGp4MUV4SjdUREhvelpCNmZRemg2aHJMSDFOVUNDNlBKZjMwQTc2VjZCaFFrYmFlS05MZ1BsLUNOYmRqVUxlbDVzWWpLYmQyN0lQYjFuTjJHVDZBQ0NUZGpkOE9Bdk9mRENZeE9rNHI3eGVCSQ?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: system_integrator, acquisition_
 
 ## 🟡 Worth Monitoring
 
@@ -39,7 +41,7 @@
   _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
 - **(15)** [Unlocking edge AI for industrial machine vision - Engineer Live](https://news.google.com/rss/articles/CBMifkFVX3lxTE5yaklvbkdHOV9LU1JNSWZvY051c1QxSFBod3ZaZkpGT1pNSWx2ZzJocjBvRlBDdE1lRmdFbFhyR0tSNTdoWjIzRTVfcEZwenNqSE5NR28tM2t2Y0NCMEhmV0FPRVBFV0hraDI3dENDcE53bGx1TUpFLTVIeWJZdw?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News)_
-- **(15)** [Edge AI Software Market Growth Accelerates as 5G, IoT and Industrial Automation Enable Real-Time Intelligence - Yahoo Finance UK](https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1h0TXQwMEpzZnFWOUM3ZmttZDVRVU10QzcwU3FXQk1uT0FmeUV3RDdWejFZTTVfNTNheHZvSktaYUxXWHFYVHJpMmpacUREb21WZ1B4ZDZYS0dJRjBWcDZ1bjNkSElJbThpa2VrX1NycDBKTjBfNG9OaVp1RV9uZFlxcFFIQQ?oc=5)  
+- **(15)** [Edge AI Software Market Growth Accelerates as 5G, IoT and Industrial Automation Enable Real-Time Intelligence - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlF6cGloRU0wSkxXS21HY0U4bk5wVTV3T3ljUE5uRF9DNTU0UXpjOFNvMGVGQ1V6dVgtYTVsLUVLMWFKQ3pncHNJS2lLb3Znb24zclVNRTQ1NzMzUTB3cUljamczbXFuMndiUlU3aDdhcmRRb05iUFVoOEVCWnpmNllrRkVQQkNhd0lfaGdCWXRWVXFHQnZfV1Z3?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News)_
 - **(13)** [CIC Global AI and Smart Construction Conference and Exhibition 2026 Concludes Successfully with Over 12,000 Visits - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcE5rai0yTFA0WFJvWERoSk9RRk80Z1pXREdoTzJqMm5RdG1VWHJ0NEV3VzNuTC15bFFsYktJMVl2UjFac0daYVdiUGRmZFZDT2xmQThuRUU0TV80M0RDUlhLa3dvUlFqcE5ZRUdjdzhmSGxlTzhCVzBhbmdwdXNzclZmZUxNcXp3?oc=5)  
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
@@ -49,9 +51,11 @@
   _D_tech_trends | D - Machine Vision / Edge AI (Google News) | Tags: tender_project_
 - **(13)** [The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMisAFBVV95cUxPanl0cE4xQnN5VXN1Z3J4NlhNTndHVHdiODJ0cjg4WXJDc3k0SmV3VHVqQ0g0b3o4Y3ZvdWIwSzlQaXVhRmgwTi01TUFkcWI1aGxIRW5Vc2VmSUozU2NBZ3FIWDFwUy1lWGdYSV9GdUxONlU1QjktQ1BKd1BhNm1Ka1VTNzF1SFBIWTRBS2ZDWmplbk9BemFuRnFyNHMwdjgtNF9tOFQ1LVRWMDRLdTNLVQ?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
+- **(12)** [Hexagon expands into non-destructive testing with major Waygate acquisition - Manufacturing Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWlZtS2J2WFJldHZUcUpfT3oxajdYOFpRRHk4WTVibHdESlgxcXIyRHhGOTJHMnBxTUEwY0Y5OXlGbWlTYVlsLWJDT2VSYTZTVHRiWHNubXBkX1BDRWw5aHlkZ0NQOTVTV241RFFwcTJTRlpWM1k5VV9IeERmZGdocHJma1cyXzhmSWp1SlNiV2ZscWZlOVI2WmhwanUtb0w4X19sYi1PeV9peVNDWklCSlJRZw?oc=5)  
+  _A_global_market | A - Industrial Inspection / Remote Inspection (Google News) | Tags: acquisition_
+- **(12)** [Allsides 3D Digital Twin Factory gets underway, in partnership with Nvidia for Physical AI on an industrial scale - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWM5Z1JCM1AyZUVMN1FPdXpvcDdSRHctLVhTRzlnMUZqTUhRWDVsa1U3Sk4ybVFaYmczXzVzTTR5b29HbHJjd2V1YUljUlhqMnNLQmRxeW5uMUoya3NSNFFXNnQ5YXQzN3pRTHlCbTdhc2pCaExITkhuem8tclozTkZydU56bUxqUFZyMy1oUGF6amdyV0hpTTBrc0NZenhaNWo4R29fT3p4ZXZHT192UDVYRkhkZw?oc=5)  
+  _D_tech_trends | D - Digital Twin / Reality Capture (Google News)_
 - **(12)** [Nordson Corporation Completes Acquisition of Contrinex, Expanding Its Industrial Sensing and Automation Portfolio - Business Wire](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYXh6cXJPZFNhQnVTdU9GRHhWaEhfVUd1cG1hM1d0OXF6ZlF5LUt5cHBKMkxjVjVpeVNZMS1lWk5lcHZPVWdHV2Naa2ZtNHBMLWxibjc2d0QxNXNRaGZhWFlfUFl0U1hqZFBmaFQ3cXdsblBJZkw0M1RZV2cwN1NFTDZqbmhzU2lvOEw0dWxSMnZyZlRuRTlDRmdhYzZndWc0T0xFeUYyWWkzMVU4azV5SVFPTWx1NGhkdHQwZEpTVDVMU1BGRkZSVDlTVE9HVld3TWlVVC1EMENGYkk0QVRGeE56ZkIwZVRuamZZcl9TM1dCNkdFeWFmUU9veWt6UQ?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(12)** [Schneider's PTC acquisition brings together 'one hell of an industrial stack' - Fierce Network](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkM1RWtJdFlXSy1MOHBRemhuTmNCUmE1UUdGZFk0bFZhcXRHTmNBQWxKV3FKdWNoY2FDTVdGYXVsRkNXMVNMVlZLQWpxTFI0cFltVEJWZXVkQkxTN3NxOUJ2WUNVR1NtRXlqX3g2Xy1ucnB1T2FyU2JIb0U5SU1nMTFQUk1yZHM1dGF6dmpPaDlKMWNOMG04UExlMWlzZmxsWk5EbFpuNV8?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [PTC acquisition positions Schneider Electric to challenge Siemens - The Robot Report](https://news.google.com/rss/articles/CBMimgFBVV95cUxQc3pZNUFqMUJXN1lscVRkNUllUXhYdmp3SGJRcWs3VUw3bi1uYnJVLTY5QmU3SjVlVVBhVTY1MzYtOVBBcU83R1BwZjVoandxRjFGSjQyemF0cVJVTUxwdC04TmYxN1Z1ajJJbzlhVFpMYjJzWGVkbTBTbTRUejM2eGkxYi11b2hXbGdOMG4wV1pYYnhkb05mTVlR?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
@@ -59,13 +63,11 @@
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Healthcare Triangle Signs Letter of Intent to Pursue the Proposed Acquisition of Roboticom's Cutting-Edge Industrial Precision Robotics Automation Business - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkExQ29qV2ttN3M2Y1pyVnlBd0JHTEdHSkE5b1NQWlBJcjEyendxZDl4eUVjMHU1T3dlR1hwYWh0MWFYbzVIQkNvQ0QycC1wb2JzRE5mQko4Y2k2NUFaWUFnOXY0ajdMblUtUmxUUXR1MVppQUZ4Zmw1cjAtSXhkRERiZWNyUmpqRDZWNUlOcFFwVU5PMnM0WnVLSmxWWXZQRFE?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(12)** [Warehouse automation trio-merger fills out its starting lineup - DC Velocity](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWGVfakdqQnIwZjdaTmlqVlpISnNPZUhHZ0l0Y0NEUnk4SDNJd1cyd05oU0pKQm5BMmRBX2szUWJteTNpanNZc0xNV20zQ0hLZmJiNGdWS2tuTVhtYmNMa2V5UTNTLUc2OEgtZGN6SzMxbElWQlRqWXE3S0J1UmFaeHUyV2ZQbTBwRTNGa3U4dm0xMWFPR1ByN1h6VFhGRkQ5RUlXUkxmX3ZUN25sZEtZcU5wOGZOVnQxM1hzdHpXY3BQM1lsa0VzdzBLWEtNZkI3clFYcWNUbHFuOE52LXRV?oc=5)  
+- **(12)** [Healthcare Triangle Signs LOI for Proposed Roboticom Acquisition in $30 Million Deal - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYl9EVHNvelNXNWxfZUpsTzc5Rk0taDM4M2hieDVEN1kzdlM2VVN4c2RRSUZRampBOUNmUHBDS2lDai1PNHRnbzhfTWtWYTVqVlQ2Uko4ZjdOSXlTUXBVaUFLNGtBWWM3WjA3dW56UWZDVkJ4NENZM21oUVJaVE50OFhjMkF5RklEYktoeUd3MVBkNmVJc1hqMTFfUEY5eUhk?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(10)** [Revolute Robotics raises US$2 million to launch hybrid driving-flying robots - LNG Industry](https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0ZXckRIc1BhTzFiUWxhd01wc2JSVzg1c2t2M0lCTzM3bEMxVVZiOF9LQ2NsMk5wNEM3czUxQUdVX3FoZnRJaDVRelZNbnA4WVBNSW15UUZTWlhVckh2MTVRT01DT0YzeFZuVEFpRS1RY2prbWVyWEZkWFZ1T0hCTWZmRkphbS1ZdEZ5UXNMV3JkSERwb0p4a1RMMDF6cWRGQm5DZU1wQUl4YTZNNFduXzVGazlQVFlRVDBtd0dDTkhsZnFu0gHKAUFVX3lxTE8xcXRmb2J6WXNsdmNPcm1ZazMybVRKNU5Ib3o4eWtXNHpGdzBROWJZQWRuVmdTVFBDazNmVDNIaGE1OFdhbFNjdVhtSXphNDhVQ1diY3U1c004ZWxPQ2gzbXZuMTQyM0JmaHFVYkNsbUFjNDdIR3d0OGxvNU05VHNoTjNzeWI5VHNyRzRJUkdJSHhRR2c3cGxNaVlBVXV4ZUhQNkUwMVp4Sk5yLV9mTFZqZFFweDR0T1dKV2xqdEZSeWUtODBJYXFXOVE?oc=5)  
   _A_global_market | A - Industrial Inspection / Remote Inspection (Google News) | Tags: funding_
 - **(10)** [Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDRpUmJtanVlREYwRGlfcV9qdGJVOHpwZFl2M2J2ZlFRdEtIeWJmNUI2Z3ctNGhsaVBxaDE3ZWZpTkJJRnZIenFuVUJIdXZmbEE2MlFtQ0hUeW5UVWM4Yy1pZkEzQXpPb0tIaURJTmZseFpfMXR4b2xlMjNJMVpNQ0FHT2l1bVZLZzVENFZ3WC1KTUU1eXRLWHBtOWRxZUNJQ2tzbnpPdjFoMlBIcUE?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
-- **(10)** [Standard Bots Announces $200 Million in Funding as it Expands Manufacturing - Automation World](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb3BVa0EzekNsN0NlaVlUNEZSeEZGTHRRZ05rMzRfMHNfZDEtSkMxU2M1TjNablRDZUdJYUlyQWlrNFhNeEwxVDEzckFYN192WG5FM19LUzFud0pPTUkzdFJLR3JNcnNqWmJFa28wY0Fhc3BSdW1BVEhoc2FNZFdVU3QyaEZsSnBfaDI2Y3N6cktnWXgzdWtCV0x2RzdSbmw3Z0JILWVKNjRuYS1oakNyaVlmQWozWjRsdUlVRDIwcVZqbk9RS2l4Wk1qaUdRbExLOVdFdFhUZkhyZw?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
 
 ## Notes

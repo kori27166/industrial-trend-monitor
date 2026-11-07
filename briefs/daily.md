@@ -1,8 +1,8 @@
-# Industrial Trend Brief - 2026-11-06
+# Industrial Trend Brief - 2026-11-07
 
 - Total unique items scanned: **110**
-- High signal (>= 18): **8**
-- Monitor (10–17): **25**
+- High signal (>= 18): **7**
+- Monitor (10–17): **26**
 
 ## 🔥 High Signal
 
@@ -20,8 +20,6 @@
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(19)** [Proficy Smart Factory 2026 Webinar: Building a Predictive, Agile Manufacturing Enterprise - GE Vernova](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm03dld1UDlmMGdyU1FvVkxqTkt1WkhnbXFSRVNqVnNMX3ptMGFzdG5GZnFSMTBEcTBRUzVXX240YjNaNjk1Uy0tZEFxZW9FcXZBbjlRT0lRMGZMakZ3Mk1HSmwwYmZpRkQ4b0h5ZU9wWVo5a2lzUHVtZ1FfR1RXTVFjU2llWExNclVPZUJxTW1Qc3BUajJHRURkYl9tVkRTVG9feGlGbDMxbnZ1bkx2LVNGME9JendkdHlBSUI5OFYxal84VlE?oc=5)  
   _A_global_market | A - Smart Factory / Industrial Automation (Google News) | Tags: enterprise_deployment_
-- **(18)** [Sonepar Expands Industrial Services with EOSYS Acquisition - National Association of Wholesaler-Distributors](https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGRZYzJ6UWkxaFA3TUhRREJtQ0stN2VYYmQyeW1ybUQ0QmstUnB4b1ZlMExfLW5sMnZUYTV4dlJGOUI5TFc1RVJmMjZXdEZnODRIaVgxMTZGLUJ2dktPeVJSWnBYc1o1U2VMaEJTX2M1akRmQjdwMTlmTDdkak5NaDhpV1J4UkJYNXZXYlVUT0JTdw?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: system_integrator, acquisition_
 
 ## 🟡 Worth Monitoring
 

@@ -1,6 +1,6 @@
-# Industrial Trend Brief - 2026-11-07
+# Industrial Trend Brief - 2026-11-08
 
-- Total unique items scanned: **110**
+- Total unique items scanned: **109**
 - High signal (>= 18): **7**
 - Monitor (10–17): **26**
 
@@ -16,10 +16,10 @@
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: enterprise_deployment, construction_project_
 - **(22)** [Tavoron Expands Industrial Automation and Robotics Capabilities with Acquisition of Power Motion - Business Wire](https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEgzYkFLaGxvelc3eDI1X1JYSm53MEp0aFNPcHlFTDF0R3dPYW5OTDN5b3FFajZOOGtURVpWNVJHQ1BPMC1iY21nRGRQODZOai1vZVZ1aVI4eFZFbjBJTUlwWHVheERDSS1sc20tQk1OZFhQSDBPaDFtNFFuLVp5ZWJhR3JfYVh3c09melJNOXludGlTQXJKLUpwRGVRTzBrSmlMSDhfd2RqYWFMZ3lYZ20zcS1VSFBhclVtd2xENUczblRsSTdXajFiS0lnakZtWWhCS3lDWHh6WDBmR3lTM3N6M1BwTnJt?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(22)** [GrayMatter Acquires New Frontier Technologies, Strengthening Industrial Automation Pillar and Anchoring a New Kansas City Presence - PR Newswire](https://news.google.com/rss/articles/CBMikwJBVV95cUxPSldIVmhvU3hOQXhMSGpoamd5MmQ2S1pzQTZ1d2VTdjNGQVNfWHlONk81dFhvY3NhRzdNbF8xTURPSHhZeXY2eFJnbm5ZcHlCM1BESU81MnhfdnpDYlJYMEhCcC1SM3l6dS1kSnY2TWVXX3hZQ1I0OVo3UFAwcXlkWFp4V1NSS2xoWWNpeFlWV1VyRHNmZ3B6SGcyZGFodlBzRlhaZzNsNWhUS3VWV3JHWk0wMkhnLVRPOTFWU1F1aVZvUlp4ZzU3ellZbEdTY0NEc3dTY0RQbXdnVzI0WFJFOFdxVllKZWdwWTZYcnl3YzlXUWtPTzBmcW0taEtVSmczWE1VUUFJLUI3ZVBmMEl1WFg0QQ?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(19)** [Proficy Smart Factory 2026 Webinar: Building a Predictive, Agile Manufacturing Enterprise - GE Vernova](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm03dld1UDlmMGdyU1FvVkxqTkt1WkhnbXFSRVNqVnNMX3ptMGFzdG5GZnFSMTBEcTBRUzVXX240YjNaNjk1Uy0tZEFxZW9FcXZBbjlRT0lRMGZMakZ3Mk1HSmwwYmZpRkQ4b0h5ZU9wWVo5a2lzUHVtZ1FfR1RXTVFjU2llWExNclVPZUJxTW1Qc3BUajJHRURkYl9tVkRTVG9feGlGbDMxbnZ1bkx2LVNGME9JendkdHlBSUI5OFYxal84VlE?oc=5)  
   _A_global_market | A - Smart Factory / Industrial Automation (Google News) | Tags: enterprise_deployment_
+- **(18)** [Sonepar Expands Industrial Services with EOSYS Acquisition - National Association of Wholesaler-Distributors](https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGRZYzJ6UWkxaFA3TUhRREJtQ0stN2VYYmQyeW1ybUQ0QmstUnB4b1ZlMExfLW5sMnZUYTV4dlJGOUI5TFc1RVJmMjZXdEZnODRIaVgxMTZGLUJ2dktPeVJSWnBYc1o1U2VMaEJTX2M1akRmQjdwMTlmTDdkak5NaDhpV1J4UkJYNXZXYlVUT0JTdw?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: system_integrator, acquisition_
 
 ## 🟡 Worth Monitoring
 
@@ -35,19 +35,17 @@
   _D_tech_trends | D - Machine Vision / Edge AI (Google News)_
 - **(15)** [Edge AI Software Market Growth Accelerates as 5G, IoT and Industrial Automation Enable Real-Time Intelligence - Yahoo Finance UK](https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1h0TXQwMEpzZnFWOUM3ZmttZDVRVU10QzcwU3FXQk1uT0FmeUV3RDdWejFZTTVfNTNheHZvSktaYUxXWHFYVHJpMmpacUREb21WZ1B4ZDZYS0dJRjBWcDZ1bjNkSElJbThpa2VrX1NycDBKTjBfNG9OaVp1RV9uZFlxcFFIQQ?oc=5)  
   _D_tech_trends | D - Machine Vision / Edge AI (Google News)_
-- **(15)** [Amberjack Capital Acquires PMV Automation from Flowserve in Partnership with Industry Veterans Joseph Jobe and Micah Floyd - Business Wire](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONU9ZdG01Um16V09QXzIyUFJsRmR0VzFBMjlvVV8zenFpVHFQLTFhVXk5cGlnamFWamtodktWekt2RjliMm9wc215VF9rM2xPZlRNRlN1clowNHJlVEM2MndLa3FHQVZKcGw3Rm1UZWZKY3dEeWlTX3pIZzlqY25kOTVMVE1XenYtTUlsbTY0XzBVTVJJS0FfQ29QaXc3WHJTb0JDVGtteWx1MXdpTzdYNlNTamZfbGVvUXY4VzBRdXBWd2RRNk5PUTd5TEJSaEpfS2xKYmN1TjYwMG02SzJjUWdTXzU0MG9BQ1k4NzktS0VReXNEcVZvdDlpcHh2V1Zxdm43R3E5WHNWeGM?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(13)** [CIC Global AI and Smart Construction Conference and Exhibition 2026 Concludes Successfully with Over 12,000 Visits - PR Newswire](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQURGSEl6alAyczczbktpNGhKR3VsbjBLUkx3YV8xNDNzcFBTMWRjcEpXNS02S2ZRakZ0VVU1VUQ3ME96LWRRbXJDVThWZU1UQ01mZ25oLW45Y25hU0lkS3E0bU9FZ0tzSFJQX0xZUGNFWVNDdURXMUNhR1NlaDdRT05CVjlERnJuOGo3ZnFvWnBQWnI3X2FmMEc3SGtDQ09rUzdHN0FzT2lNVFFabThpUml0WUpZWmp5NmVpVzYxR3ZnU2RPc1JrWTBpSTFmMnVKd3VTck9xWG5UazJ2QzVWamdlajd5LWNVc24xWUs2TE1EaFdvV25BSXlCY2pKRmM?oc=5)  
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
 - **(13)** [Moscow launches smart construction site - Smart Cities World](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOE8wb2lJWXpBNy1rMG1ZX0k4YmpPNklORmZLZWQ4OV9pNkZmVXhaVHFkMFNNbGhCZUZWQmx0WVpKdjBpSXVrZGVQVW5EcUtOZURvLUNpcFQyaXpWd3FEVlRQSFlEOEhMekZwaU1UQ2NrS1dPVldxeWxtVk5LaWYwcjdYUmtRbjNSLVE?oc=5)  
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
-- **(13)** [Empowering smart construction site safety through a standardised data framework - Arup](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT05vRHIxX3hManRBb0FIRElibFlJS0Uwc2FiTXp3MmVHRExKRFJtUVVlSHQ5WXo2SDdKVFJ6MnZlV2NDQ3k0NHYzS25SRlJCeTNSMnBDYWtxZGpwUHV1blFQSDV2NGNOV2lJMlRPb2x4UV9GclhnbC1zWDZFcGxzdHRGaWdkNG5qUjFBaGw0X091UXBiTE4tNkVKU3Z5QkQ2N0pXNm5aU2tLdw?oc=5)  
-  _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
 - **(13)** [Here’s how smart construction could transform home-building after COVID-19 - World Economic Forum](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXdSMVlyMHAwRnFJakZVa1dqMDlUSk41SFloZy1MdmJmN2JQUUF1VWtCWEdybzBySktyWFMxWUpnN0ItemVMYUkwX0J1Y2FybldKaVhNdUpFVFV4OEVVdDhYaVc1cmNnRk40bkp0VlI4Tk96NU9LVU5Ldm5hN1NrYmFjTXZOM2JpUUVCQk1Wam5rYjJMWlVndEt4RzJCSGg1WjdOVHhxTnZYTW5hczg2Q0VPVFFESHVheG1nVE5Wd2NGS09laWNTTUpPRDdkYURZVlE?oc=5)  
   _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
-- **(12)** [China Blocks SoftBank’s $5.4Bn Acquisition of ABB Robotics - Retail News Asia](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXFpdkFRSTFVSUE1SE1zOUF5QWNIajdaRlE0ZkxneW5jakt6bE8xN1pldUp6MHJ0dFYweUswRm54M0h3LWJvRnR0VU54ek8tYkJFcmM5YkxLdEdMY0RQYVZKMHFwUkdzTVBIaENFS2pwRWdwVHJ2WFM0eUpRVTQzTG05Z1ZyNVE?oc=5)  
+- **(12)** [Industry experts discuss China blocking SoftBank acquisition of ABB Robotics - The Robot Report](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDdhMDVXZEUxaWRuT1hxNk1GaVRSeHJPdk1OS2NnZXY5c3h3X0dMTHduNlZTbjVub1FFbjJJZ0RYTi1Yc0plVkVJMWRabnhSeXFOTWZ1c3NVMXJWMGtoSHdBMmpvd3FzNGhlUEs1WExHSkg3cVRfTjFKaWdCWm5HcHd4LWxReEpqZXdJb2FybDlOSTlPZnBFak1NaldPRFRlYTk5elRGbmY?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Agile Robots to tap into new sectors with latest acquisition - Manufacturing Dive](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlFEVG5HWjY1QXpSazRWSldmN21CNnZmaUVZdTdHWmFnZm91a0VoMVo4c0NnRC0tQTdtUW42czZDTElfUkVmX1VGWEExU3VwMHAwZC0wYWw1aTBCNWtBLXBzQ1QwckUtZGtnS1pRdGt0cFc1bGk1bDRQREVUb0JkV3RYM1U5RjhtNXFMa0YyVG9QQlB2a2RYVUozaFBCSFN6TkYza3JfY3BuSktnVnl5ZlZXcHlBREg1c2Jr?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
+- **(12)** [China Blocks SoftBank’s $5.4Bn Acquisition of ABB Robotics - Retail News Asia](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXFpdkFRSTFVSUE1SE1zOUF5QWNIajdaRlE0ZkxneW5jakt6bE8xN1pldUp6MHJ0dFYweUswRm54M0h3LWJvRnR0VU54ek8tYkJFcmM5YkxLdEdMY0RQYVZKMHFwUkdzTVBIaENFS2pwRWdwVHJ2WFM0eUpRVTQzTG05Z1ZyNVE?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Healthcare Triangle Signs Letter of Intent to Pursue the Proposed Acquisition of Roboticom's Cutting-Edge Industrial Precision Robotics Automation Business - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkExQ29qV2ttN3M2Y1pyVnlBd0JHTEdHSkE5b1NQWlBJcjEyendxZDl4eUVjMHU1T3dlR1hwYWh0MWFYbzVIQkNvQ0QycC1wb2JzRE5mQko4Y2k2NUFaWUFnOXY0ajdMblUtUmxUUXR1MVppQUZ4Zmw1cjAtSXhkRERiZWNyUmpqRDZWNUlOcFFwVU5PMnM0WnVLSmxWWXZQRFE?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
@@ -59,10 +57,12 @@
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Healthcare Triangle Signs LOI for Proposed Roboticom Acquisition in $30 Million Deal - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYl9EVHNvelNXNWxfZUpsTzc5Rk0taDM4M2hieDVEN1kzdlM2VVN4c2RRSUZRampBOUNmUHBDS2lDai1PNHRnbzhfTWtWYTVqVlQ2Uko4ZjdOSXlTUXBVaUFLNGtBWWM3WjA3dW56UWZDVkJ4NENZM21oUVJaVE50OFhjMkF5RklEYktoeUd3MVBkNmVJc1hqMTFfUEY5eUhk?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
-- **(12)** [Relevant Solutions Announces Acquisition of Automation Werx, LLC - PR Newswire](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEh1bG1QcVRsTmI4NTlXb0pVbmZMeVJxRVlxUVROQlB1S0hDYU8wZFYzTnZqOXJNUncyb1VsVDdvOGVSS0NaS3plMktEVVVJYWYwcmxFMU10SFVSaktPazctaGdpTzFPa1M4Mk9fZzc3bVFuRTNwa0M4UjRwSS1Uc3paVldsRzd1QnN0VW5oODhjZHdSbFlEVkZZZ0M1aGNFeWRYcVpjNUg3a3J6ZjJ5R3J4NDdScTFTRVhn?oc=5)  
-  _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
 - **(12)** [Tavoron Expands Automation Capabilities with Acquisition of Fluidraulics - Business Wire](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWdvSTQtTzN6S0hCaVZKQ1pvRV9EQUV4ZC1ZeVR1YVVxOW9MY2htR19FNkVqUEtkUDluSTZEajRucGtIbFBnOHgzeTVUTEtWVjNXTTh2WDhJeHZGcHo4QVU1dHdpb1VEQS00QllDSUtTME95emp1TmlvTjNkZlRTbWRZUE9wZGxkLThVQ0lYbEt0ZTgwbmJxVk5ETzRRMVVTc2NqTHZ6eXdoTVN2MFltZ056S2U2MV9YZ056MDBoZU5DRTdHcFdPOA?oc=5)  
   _C_capital | C - Funding / Acquisition (Google News) | Tags: acquisition_
+- **(11)** [Detection of Personal Protective Equipment (PPE) Compliance on Construction Site Using Computer Vision Based Deep Learning Techniques - Frontiers](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWliZkdkbExYMFdGb0VBbjAwQ0ljTGFwb1ZTclctbU5QSklxZHFyYmkySmhubmVJTHNSWTg5bEZQd0RDSWVfektsc2dUMUstWHlqWjMyYWlfNVN1VnhLRGF2LWloRk95bFVmeVFvMXl3NE9rRzJsUmwtSlhsOEVZeUtieXpBYVhKODF6NHVFMERRUzJJanZVQQ?oc=5)  
+  _A_global_market | A - Smart Construction / Site Monitoring (Google News) | Tags: construction_project_
+- **(10)** [Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDRpUmJtanVlREYwRGlfcV9qdGJVOHpwZFl2M2J2ZlFRdEtIeWJmNUI2Z3ctNGhsaVBxaDE3ZWZpTkJJRnZIenFuVUJIdXZmbEE2MlFtQ0hUeW5UVWM4Yy1pZkEzQXpPb0tIaURJTmZseFpfMXR4b2xlMjNJMVpNQ0FHT2l1bVZLZzVENFZ3WC1KTUU1eXRLWHBtOWRxZUNJQ2tzbnpPdjFoMlBIcUE?oc=5)  
+  _C_capital | C - Funding / Acquisition (Google News) | Tags: funding_
 
 ## Notes
 
